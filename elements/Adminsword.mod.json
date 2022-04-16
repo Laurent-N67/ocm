@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cardinalredmana_sword",
+    "customModelName": "Normal",
+    "name": "Adminsword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 100000,
+    "efficiency": 100000.0,
+    "attackSpeed": 1.0,
+    "enchantability": 100000,
+    "damageVsEntity": 100000.0,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

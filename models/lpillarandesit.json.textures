@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone_andesite_smooth"
+      },
+      "name": "default"
+    }
+  }
+}

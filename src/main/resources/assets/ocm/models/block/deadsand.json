@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/darksand",
+    "up": "ocm:blocks/darksand",
+    "north": "ocm:blocks/darksand",
+    "east": "ocm:blocks/darksand",
+    "south": "ocm:blocks/darksand",
+    "west": "ocm:blocks/darksand",
+    "particle": "ocm:blocks/darksand"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "winevasepurple",
+    "customModelName": "Normal",
+    "name": "Wine",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 8,
+    "saturation": 1.1,
+    "eatingSpeed": 72,
+    "resultItem": {
+      "value": "CUSTOM:Vaseitem"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "Wine5FoodEaten"
+    }
+  }
+}

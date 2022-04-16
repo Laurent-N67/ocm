@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blockstrig",
+        "1": "wool_colored_white"
+      },
+      "name": "default"
+    }
+  }
+}

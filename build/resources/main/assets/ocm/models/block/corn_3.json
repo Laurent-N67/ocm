@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/corn_stage_3",
+    "particle": "ocm:blocks/corn_stage_3"
+  }
+}

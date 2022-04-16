@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/upblocksupportsavana"
+    },
+    "facing=east": {
+      "model": "ocm:block/upblocksupportsavana",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/upblocksupportsavana",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/upblocksupportsavana",
+      "y": 270
+    }
+  }
+}

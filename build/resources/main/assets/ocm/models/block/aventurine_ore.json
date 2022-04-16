@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/aventurineore2",
+    "particle": "ocm:blocks/aventurineore2"
+  }
+}

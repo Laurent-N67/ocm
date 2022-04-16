@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/peridot_wisted-side",
+    "up": "ocm:blocks/peridot_wisted-side",
+    "north": "ocm:blocks/peridot_wisted-side",
+    "east": "ocm:blocks/peridot_wisted-side",
+    "south": "ocm:blocks/peridot_wisted-side",
+    "west": "ocm:blocks/peridot_wisted-side",
+    "particle": "ocm:blocks/peridot_wisted-side"
+  }
+}

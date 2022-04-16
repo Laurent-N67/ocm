@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/creeperstone",
+    "up": "ocm:blocks/creeperstone",
+    "north": "ocm:blocks/creeperstone",
+    "east": "ocm:blocks/creeperstone",
+    "south": "ocm:blocks/creeperstone",
+    "west": "ocm:blocks/creeperstone",
+    "particle": "ocm:blocks/creeperstone"
+  }
+}

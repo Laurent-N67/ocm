@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/cracked_stone_bricks",
+    "up": "ocm:blocks/cracked_stone_bricks",
+    "north": "ocm:blocks/cracked_stone_bricks",
+    "east": "ocm:blocks/cracked_stone_bricks",
+    "south": "ocm:blocks/cracked_stone_bricks",
+    "west": "ocm:blocks/cracked_stone_bricks",
+    "particle": "ocm:blocks/cracked_stone_bricks"
+  }
+}

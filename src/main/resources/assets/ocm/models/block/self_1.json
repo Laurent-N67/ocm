@@ -1,0 +1,13 @@
+{
+  "parent": "ocm:custom/self1",
+  "textures": {
+    "all": "ocm:blocks/barrel_top",
+    "particle": "ocm:blocks/barrel_top",
+    "11": "ocm:blocks/japlantyello",
+    "4": "ocm:blocks/barrel_top",
+    "7": "ocm:blocks/japlantblu",
+    "8": "ocm:blocks/japlantgreen",
+    "9": "ocm:blocks/japlantorange",
+    "10": "ocm:blocks/japlantred"
+  }
+}

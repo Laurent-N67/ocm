@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/redwood_planks",
+    "top": "ocm:blocks/redwood_planks",
+    "side": "ocm:blocks/redwood_planks"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/skullheadblock"
+    },
+    "facing=east": {
+      "model": "ocm:block/skullheadblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/skullheadblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/skullheadblock",
+      "y": 270
+    }
+  }
+}

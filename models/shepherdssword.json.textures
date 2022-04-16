@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_big_oak",
+        "1": "piston_bottom",
+        "2": "anvil_base",
+        "3": "silver_ore_block",
+        "4": "saphir_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

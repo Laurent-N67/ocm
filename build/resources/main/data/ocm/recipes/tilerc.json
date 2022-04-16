@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:tuileard"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "ocm:tuileard"
+    }
+  ],
+  "result": {
+    "item": "ocm:tilred",
+    "count": 2
+  }
+}

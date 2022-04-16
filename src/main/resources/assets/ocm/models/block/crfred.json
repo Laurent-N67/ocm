@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/cornerrooftred",
+  "textures": {
+    "all": "ocm:blocks/salteyredred",
+    "particle": "ocm:blocks/salteyredred",
+    "0": "ocm:blocks/candlestub",
+    "1": "ocm:blocks/cadred",
+    "missing": "ocm:blocks/flame"
+  }
+}

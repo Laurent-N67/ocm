@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:wheat"
+    },
+    "4": {
+      "item": "minecraft:wheat"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "6": {
+      "item": "minecraft:wheat"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "ocm:rhay",
+    "count": 10
+  }
+}

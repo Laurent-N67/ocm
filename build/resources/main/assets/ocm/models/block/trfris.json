@@ -1,0 +1,11 @@
+{
+  "parent": "ocm:custom/trophyfirst",
+  "textures": {
+    "all": "ocm:blocks/bluebrick",
+    "particle": "ocm:blocks/bluebrick",
+    "0": "ocm:blocks/char (9)",
+    "2": "ocm:blocks/anvil_base",
+    "4": "ocm:blocks/planks_birch",
+    "first": "ocm:blocks/first"
+  }
+}

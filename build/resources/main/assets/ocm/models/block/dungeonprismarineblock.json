@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/prismarine_bricks",
+    "up": "ocm:blocks/prismarine_bricks",
+    "north": "ocm:blocks/prismarine_bricks",
+    "east": "ocm:blocks/prismarine_bricks",
+    "south": "ocm:blocks/prismarine_bricks",
+    "west": "ocm:blocks/prismarine_bricks",
+    "particle": "ocm:blocks/prismarine_bricks"
+  }
+}

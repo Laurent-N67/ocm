@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:obsidieningot"
+    },
+    "1": {
+      "item": "ocm:metalstick"
+    },
+    "2": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:obsidien_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:prismpowder"
+    },
+    "1": {
+      "item": "ocm:prismpowder"
+    },
+    "2": {
+      "item": "ocm:prismpowder"
+    },
+    "3": {
+      "item": "ocm:prismpowder"
+    },
+    "4": {
+      "item": "ocm:prismpowder"
+    },
+    "5": {
+      "item": "ocm:prismpowder"
+    },
+    "6": {
+      "item": "ocm:prismpowder"
+    },
+    "7": {
+      "item": "ocm:prismpowder"
+    },
+    "8": {
+      "item": "ocm:prismpowder"
+    }
+  },
+  "result": {
+    "item": "ocm:prismingot",
+    "count": 1
+  }
+}

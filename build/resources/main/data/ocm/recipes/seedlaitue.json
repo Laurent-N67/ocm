@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:laitue"
+    }
+  ],
+  "result": {
+    "item": "ocm:laitue_1",
+    "count": 1
+  }
+}

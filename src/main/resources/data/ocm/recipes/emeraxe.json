@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "ocm:metalstick"
+    },
+    "5": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:emerald_axe",
+    "count": 1
+  }
+}

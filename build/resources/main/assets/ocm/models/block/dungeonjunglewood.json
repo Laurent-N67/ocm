@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/log_jungle_top",
+    "up": "ocm:blocks/log_jungle_top",
+    "north": "ocm:blocks/log_jungle",
+    "east": "ocm:blocks/log_jungle",
+    "south": "ocm:blocks/log_jungle",
+    "west": "ocm:blocks/log_jungle",
+    "particle": "ocm:blocks/log_jungle_top"
+  }
+}

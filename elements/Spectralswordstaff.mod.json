@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "spectralswordstaff",
+    "customModelName": "Normal",
+    "name": "Icestaff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Darkmanastone"
+    },
+    "shootConstantly": false,
+    "usageCount": 35,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": true,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 3.9999999999999996,
+    "bulletPower": 0.9,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:SaphirGem"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "SpectralswordstaffBulletHitsBlock"
+    }
+  }
+}

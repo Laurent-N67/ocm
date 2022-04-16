@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/icrspik"
+    },
+    "facing=east": {
+      "model": "ocm:block/icrspik",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/icrspik",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/icrspik",
+      "y": 270
+    }
+  }
+}

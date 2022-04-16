@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/cable",
+  "textures": {
+    "all": "ocm:blocks/steamcable",
+    "particle": "ocm:blocks/steamcable",
+    "0": "ocm:blocks/steamcable"
+  }
+}

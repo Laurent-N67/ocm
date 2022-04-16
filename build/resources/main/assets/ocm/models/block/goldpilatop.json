@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/goldpillar1",
+    "up": "ocm:blocks/goldpillar1",
+    "north": "ocm:blocks/goldpillar2",
+    "east": "ocm:blocks/goldpillar2",
+    "south": "ocm:blocks/goldpillar2",
+    "west": "ocm:blocks/goldpillar2",
+    "particle": "ocm:blocks/goldpillar1"
+  }
+}

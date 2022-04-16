@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Role Play Item",
+    "icon": {
+      "value": "CUSTOM:Teramifan"
+    },
+    "showSearch": true
+  }
+}

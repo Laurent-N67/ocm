@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:spinelle"
+    },
+    "4": {
+      "item": "ocm:spinelle"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ocm:sciespinelle",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/mossy_cobblestone",
+    "up": "ocm:blocks/mossy_cobblestone",
+    "north": "ocm:blocks/mossy_cobblestone",
+    "east": "ocm:blocks/mossy_cobblestone",
+    "south": "ocm:blocks/mossy_cobblestone",
+    "west": "ocm:blocks/mossy_cobblestone",
+    "particle": "ocm:blocks/mossy_cobblestone"
+  }
+}

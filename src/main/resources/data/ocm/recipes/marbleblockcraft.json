@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:marble"
+    },
+    "1": {
+      "item": "ocm:marble"
+    },
+    "2": {
+      "item": "ocm:marble"
+    },
+    "3": {
+      "item": "ocm:marble"
+    },
+    "4": {
+      "item": "ocm:marble"
+    },
+    "5": {
+      "item": "ocm:marble"
+    },
+    "6": {
+      "item": "ocm:marble"
+    },
+    "7": {
+      "item": "ocm:marble"
+    },
+    "8": {
+      "item": "ocm:marble"
+    }
+  },
+  "result": {
+    "item": "ocm:marblesblock",
+    "count": 1
+  }
+}

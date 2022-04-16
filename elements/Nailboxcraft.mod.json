@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Stackofnail"
+      },
+      {
+        "value": "CUSTOM:Stackofnail"
+      },
+      {
+        "value": "CUSTOM:Stackofnail"
+      },
+      {
+        "value": "CUSTOM:Stackofnail"
+      },
+      {
+        "value": "CUSTOM:Stackofnail"
+      },
+      {
+        "value": "CUSTOM:Stackofnail"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Ironframe"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Nailbox"
+    },
+    "name": "nailboxcraft",
+    "namespace": "mod"
+  }
+}

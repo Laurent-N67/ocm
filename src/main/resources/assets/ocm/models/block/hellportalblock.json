@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/hellportalblock",
+    "up": "ocm:blocks/hellportalblock",
+    "north": "ocm:blocks/hellportalblock",
+    "east": "ocm:blocks/hellportalblock",
+    "south": "ocm:blocks/hellportalblock",
+    "west": "ocm:blocks/hellportalblock",
+    "particle": "ocm:blocks/hellportalblock"
+  }
+}

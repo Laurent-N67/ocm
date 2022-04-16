@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/moussywood",
+    "up": "ocm:blocks/moussywood",
+    "north": "ocm:blocks/moussywood",
+    "east": "ocm:blocks/moussywood",
+    "south": "ocm:blocks/moussywood",
+    "west": "ocm:blocks/moussywood",
+    "particle": "ocm:blocks/moussywood"
+  }
+}

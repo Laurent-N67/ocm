@@ -1,0 +1,12 @@
+{
+  "parent": "ocm:custom/storageself",
+  "textures": {
+    "all": "ocm:blocks/planks_oak",
+    "particle": "ocm:blocks/planks_oak",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/brickplate",
+    "2": "ocm:blocks/lanternblock",
+    "3": "ocm:blocks/txtvasered",
+    "4": "ocm:blocks/titane_ore_block"
+  }
+}

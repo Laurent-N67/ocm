@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/japanwall"
+    },
+    "facing=east": {
+      "model": "ocm:block/japanwall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/japanwall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/japanwall",
+      "y": 270
+    }
+  }
+}

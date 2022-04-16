@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidien_sword",
+    "customModelName": "Normal",
+    "name": "Obsidien Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 16,
+    "efficiency": 21.0,
+    "attackSpeed": 1.6,
+    "enchantability": 15,
+    "damageVsEntity": 16.0,
+    "usageCount": 4595,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Obsidieningot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

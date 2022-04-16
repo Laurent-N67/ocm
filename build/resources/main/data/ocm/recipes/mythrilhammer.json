@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:mythril_ore_block"
+    },
+    "1": {
+      "item": "ocm:mythril_ore_block"
+    },
+    "2": {
+      "item": "ocm:mythril_ore_block"
+    },
+    "3": {
+      "item": "ocm:mythril_ore_block"
+    },
+    "4": {
+      "item": "ocm:mithrilstick"
+    },
+    "5": {
+      "item": "ocm:mythril_ore_block"
+    },
+    "7": {
+      "item": "ocm:mithrilstick"
+    }
+  },
+  "result": {
+    "item": "ocm:mythrillhammer",
+    "count": 1
+  }
+}

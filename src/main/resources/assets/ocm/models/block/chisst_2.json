@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/stonescrew",
+    "up": "ocm:blocks/stonescrew",
+    "north": "ocm:blocks/stonescrew",
+    "east": "ocm:blocks/stonescrew",
+    "south": "ocm:blocks/stonescrew",
+    "west": "ocm:blocks/stonescrew",
+    "particle": "ocm:blocks/stonescrew"
+  }
+}

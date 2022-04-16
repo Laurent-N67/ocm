@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/marble_pillar-top",
+    "up": "ocm:blocks/marble_pillar-top",
+    "north": "ocm:blocks/marble_pillar-side",
+    "east": "ocm:blocks/marble_pillar-side",
+    "south": "ocm:blocks/marble_pillar-side",
+    "west": "ocm:blocks/marble_pillar-side",
+    "particle": "ocm:blocks/marble_pillar-top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "ocm:blocks/iron_block",
+    "particle": "ocm:blocks/iron_block"
+  }
+}

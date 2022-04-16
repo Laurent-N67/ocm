@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:greenleaf"
+    },
+    "1": {
+      "item": "ocm:pipe"
+    }
+  },
+  "result": {
+    "item": "ocm:pipegreenleaf",
+    "count": 1
+  }
+}

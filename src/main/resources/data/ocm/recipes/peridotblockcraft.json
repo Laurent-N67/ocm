@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:peridot"
+    },
+    "1": {
+      "item": "ocm:peridot"
+    },
+    "2": {
+      "item": "ocm:peridot"
+    },
+    "3": {
+      "item": "ocm:peridot"
+    },
+    "4": {
+      "item": "ocm:peridot"
+    },
+    "5": {
+      "item": "ocm:peridot"
+    },
+    "6": {
+      "item": "ocm:peridot"
+    },
+    "7": {
+      "item": "ocm:peridot"
+    },
+    "8": {
+      "item": "ocm:peridot"
+    }
+  },
+  "result": {
+    "item": "ocm:peridotoreblock",
+    "count": 1
+  }
+}

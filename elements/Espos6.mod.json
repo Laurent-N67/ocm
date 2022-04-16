@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "sign",
+    "customModelName": "estetic_poster6:default",
+    "name": "Sign poster \"Helltaker\"",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Cosmetic"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "hasDispenseBehavior": false
+  }
+}

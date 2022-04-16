@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/neinblock",
+    "up": "ocm:blocks/neinblock",
+    "north": "ocm:blocks/neinblock",
+    "east": "ocm:blocks/neinblock",
+    "south": "ocm:blocks/neinblock",
+    "west": "ocm:blocks/neinblock",
+    "particle": "ocm:blocks/neinblock"
+  }
+}

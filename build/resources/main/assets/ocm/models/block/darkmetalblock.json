@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/anvil_base",
+    "up": "ocm:blocks/anvil_base",
+    "north": "ocm:blocks/anvil_base",
+    "east": "ocm:blocks/anvil_base",
+    "south": "ocm:blocks/anvil_base",
+    "west": "ocm:blocks/anvil_base",
+    "particle": "ocm:blocks/anvil_base"
+  }
+}

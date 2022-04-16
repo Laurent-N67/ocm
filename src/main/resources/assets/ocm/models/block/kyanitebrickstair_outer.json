@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/kyanite_bricks-solid",
+    "top": "ocm:blocks/kyanite_bricks-solid",
+    "side": "ocm:blocks/kyanite_bricks-solid"
+  }
+}

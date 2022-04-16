@@ -1,0 +1,61 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 30/12/21 02:49
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at net.mcreator.ocmd.procedures.RestaureartefactProcedure$1.run(RestaureartefactProcedure.java:196) ~[main/:?] {re:classloading,pl:eventbus:A}
+	at net.mcreator.ocmd.procedures.RestaureartefactProcedure$1.tick(RestaureartefactProcedure.java:62) ~[main/:?] {re:classloading,pl:eventbus:A}
+	at net.minecraftforge.eventbus.ASMEventHandler_486__tick_ServerTickEvent.invoke(.dynamic) ~[?:?] {}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.fml.hooks.BasicEventHooks.onPostServerTick(BasicEventHooks.java:120) ~[forge:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:862) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:84) ~[forge:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:664) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$startServer$0(MinecraftServer.java:233) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_312, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 1286294312 bytes (1226 MB) / 1746403328 bytes (1665 MB) up to 3801088000 bytes (3625 MB)
+	CPUs: 6
+	JVM Flags: 2 total; -XX:+IgnoreUnrecognizedVMOptions -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	ModLauncher: 8.0.9+86+master.3cf110c
+	ModLauncher launch target: fmluserdevclient
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		/mixin-0.8.4.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-launcher.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-launcher.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-launcher.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-launcher.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-launcher.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.20
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		client-extra.jar                                  |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16|Forge                         |forge                         |36.2.20             |DONE      |Manifest: NOSIGNATURE
+		main                                              |odyssecraftmod                |ocm                           |0.8                 |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 026c52be-0a2d-4d13-ae1e-b42900688879
+	Player Count: 1 / 8; [ServerPlayerEntity['Dev'/13, l='ServerLevel[test]', x=-35.10, y=4.00, z=-83.38]]
+	Data Packs: vanilla, mod:forge, mod:ocm
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'forge'

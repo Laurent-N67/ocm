@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:wnstg_3"
+    }
+  },
+  "result": {
+    "item": "ocm:wine_4",
+    "count": 3
+  }
+}

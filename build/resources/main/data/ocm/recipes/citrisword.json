@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:citrine_gem"
+    },
+    "1": {
+      "item": "ocm:citrine_gem"
+    },
+    "2": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:citrine_sword",
+    "count": 1
+  }
+}

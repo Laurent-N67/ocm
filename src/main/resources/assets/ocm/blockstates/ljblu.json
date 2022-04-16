@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/ljblu",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/ljblu"
+    },
+    "axis=z": {
+      "model": "ocm:block/ljblu",
+      "x": 90
+    }
+  }
+}

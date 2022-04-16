@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/appleleavessteril",
+  "textures": {
+    "all": "ocm:blocks/appletree",
+    "particle": "ocm:blocks/appletree",
+    "0": "ocm:blocks/appletree"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:metalstick"
+    },
+    "1": {
+      "item": "minecraft:black_stained_glass"
+    },
+    "2": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:glsgrblack",
+    "count": 2
+  }
+}

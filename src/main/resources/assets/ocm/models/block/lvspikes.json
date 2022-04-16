@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/lavaspikes",
+  "textures": {
+    "all": "ocm:blocks/magmablock",
+    "particle": "ocm:blocks/magmablock",
+    "1": "ocm:blocks/magmablock",
+    "2": "ocm:blocks/iron_block"
+  }
+}

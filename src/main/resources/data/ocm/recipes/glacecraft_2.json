@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:ironframe"
+    },
+    "1": {
+      "item": "ocm:glass_6"
+    },
+    "2": {
+      "item": "ocm:ironframe"
+    }
+  },
+  "result": {
+    "item": "ocm:glass_4",
+    "count": 2
+  }
+}

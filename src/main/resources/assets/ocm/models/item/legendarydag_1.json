@@ -1,0 +1,7 @@
+{
+  "parent": "ocm:custom/daguelegendary",
+  "textures": {
+    "2": "ocm:blocks/starcrystalblock",
+    "particle": "ocm:items/mythril_sword"
+  }
+}

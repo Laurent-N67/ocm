@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/whitestone",
+    "up": "ocm:blocks/whitestone",
+    "north": "ocm:blocks/whitestone",
+    "east": "ocm:blocks/whitestone",
+    "south": "ocm:blocks/whitestone",
+    "west": "ocm:blocks/whitestone",
+    "particle": "ocm:blocks/whitestone"
+  }
+}

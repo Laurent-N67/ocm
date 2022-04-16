@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "marrowtop": "marrowtop2",
+        "marrowside": "marrowside2"
+      },
+      "name": "default"
+    }
+  }
+}

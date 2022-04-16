@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/rubyplankslab"
+    },
+    "type=top": {
+      "model": "ocm:block/rubyplankslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/rubyplankslab_full"
+    }
+  }
+}

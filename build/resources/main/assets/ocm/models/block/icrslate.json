@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/incornerslate1",
+  "textures": {
+    "all": "ocm:blocks/salte",
+    "particle": "ocm:blocks/salte",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salte"
+  }
+}

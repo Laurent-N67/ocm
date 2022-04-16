@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/marrow3",
+  "textures": {
+    "all": "ocm:blocks/marrow0",
+    "particle": "ocm:blocks/marrow0",
+    "marrowtop": "ocm:blocks/marrowtop",
+    "leaves": "ocm:blocks/leavesbase1",
+    "marrowside": "ocm:blocks/marrowside"
+  }
+}

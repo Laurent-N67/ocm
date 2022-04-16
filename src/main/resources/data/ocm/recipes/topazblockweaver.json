@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ocm:topazblock"
+  },
+  "result": "ocm:topazweaver"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/torchsupportobsidien",
+  "textures": {
+    "all": "ocm:blocks/obsiliss",
+    "particle": "ocm:blocks/obsiliss",
+    "anvil": "ocm:blocks/obsiliss"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "platinium_disco": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:platinum_disco",
+        "stream": true
+      }
+    ]
+  },
+  "shootmusket": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "ocm:shootmusket",
+        "stream": false
+      }
+    ]
+  },
+  "chikaphonkversion": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:phantom_chika_phonk_version",
+        "stream": true
+      }
+    ]
+  },
+  "saymaxwellhelltaker": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:saymaxwell_helltaker_vitality",
+        "stream": true
+      }
+    ]
+  },
+  "revengeminecraftparody": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:revenge_a_minecraft_parody",
+        "stream": true
+      }
+    ]
+  },
+  "tntminecraftparody": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:tnt_minecraft_parody",
+        "stream": true
+      }
+    ]
+  },
+  "argueforandagainst": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:argue_for_and_against",
+        "stream": true
+      }
+    ]
+  },
+  "start_lifting_dumbbells": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:start_lifting_dumbbells",
+        "stream": true
+      }
+    ]
+  },
+  "unl_reimu_lotus": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:unl_reimu_theme_dichromatic_lotus_butterfly",
+        "stream": true
+      }
+    ]
+  },
+  "ambiantmusic1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:devilmansioninearlyafternoon1",
+        "stream": true
+      }
+    ]
+  },
+  "ambiantmusic2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "ocm:devilmansioninearlyafternoon2",
+        "stream": true
+      }
+    ]
+  },
+  "abs": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "ocm:abs",
+        "stream": false
+      }
+    ]
+  },
+  "corridorsoftimefromchronotrigger": {
+    "category": "record",
+    "subtitle": "subtitles.corridorsoftimefromchronotrigger",
+    "sounds": [
+      {
+        "name": "ocm:corridors_of_time_from_chrono_trigger",
+        "stream": true
+      }
+    ]
+  },
+  "peritunematerialsakuya1": {
+    "category": "music",
+    "subtitle": "subtitles.peritunematerialsakuya1",
+    "sounds": [
+      {
+        "name": "ocm:peritunematerial_sakuya_loop",
+        "stream": true
+      }
+    ]
+  },
+  "gnoll_live": {
+    "category": "hostile",
+    "subtitle": "subtitles.gnoll_live",
+    "sounds": [
+      {
+        "name": "ocm:gnolllive",
+        "stream": false
+      }
+    ]
+  },
+  "gnoll_die": {
+    "category": "hostile",
+    "subtitle": "subtitles.gnoll_die",
+    "sounds": [
+      {
+        "name": "ocm:gnolldie",
+        "stream": false
+      }
+    ]
+  },
+  "animegirlgiggle": {
+    "category": "hostile",
+    "subtitle": "subtitles.animegirlgiggle",
+    "sounds": [
+      {
+        "name": "ocm:cute_anime_girl_giggle_-_sound_effect_for_editing",
+        "stream": false
+      }
+    ]
+  },
+  "popeffect": {
+    "category": "player",
+    "subtitle": "subtitles.popeffect",
+    "sounds": [
+      {
+        "name": "ocm:popeffect",
+        "stream": false
+      }
+    ]
+  }
+}

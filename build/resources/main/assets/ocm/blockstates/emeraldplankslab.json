@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/emeraldplankslab"
+    },
+    "type=top": {
+      "model": "ocm:block/emeraldplankslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/emeraldplankslab_full"
+    }
+  }
+}

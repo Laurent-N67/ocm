@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "book": "booktemplate1"
+      },
+      "name": "default"
+    }
+  }
+}

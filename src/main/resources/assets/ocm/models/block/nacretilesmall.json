@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/nacre_tiles-small",
+    "up": "ocm:blocks/nacre_tiles-small",
+    "north": "ocm:blocks/nacre_tiles-small",
+    "east": "ocm:blocks/nacre_tiles-small",
+    "south": "ocm:blocks/nacre_tiles-small",
+    "west": "ocm:blocks/nacre_tiles-small",
+    "particle": "ocm:blocks/nacre_tiles-small"
+  }
+}

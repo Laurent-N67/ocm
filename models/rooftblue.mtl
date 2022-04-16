@@ -1,0 +1,6 @@
+# Made in Blockbench 3.4.2
+newmtl 0
+map_Kd planks_oak.png 
+newmtl 1
+map_Kd salteyblue.png 
+newmtl none

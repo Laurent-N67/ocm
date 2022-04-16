@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/dungeonstoneslab"
+    },
+    "type=top": {
+      "model": "ocm:block/dungeonstoneslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/dungeonstoneslab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "ocm:blocks/onyx_bricks-solid",
+    "particle": "ocm:blocks/onyx_bricks-solid"
+  }
+}

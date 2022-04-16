@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "gw6.png",
+          "use1Xscale": true,
+          "name": "gw6.png",
+          "x": 61,
+          "y": 16
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "onClick": {
+            "name": "Tutow5"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "<",
+          "x": 77,
+          "y": 27
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ">",
+          "onClick": {
+            "name": "Tutow7"
+          },
+          "width": 30,
+          "height": 20,
+          "name": ">",
+          "x": 319,
+          "y": 26
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

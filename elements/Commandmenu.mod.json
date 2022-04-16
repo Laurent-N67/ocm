@@ -1,0 +1,154 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 404,
+    "height": 231,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Home ville/maison",
+          "width": 114,
+          "height": 20,
+          "name": "Home ville/maison",
+          "x": 156,
+          "y": 16
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Towny meny",
+          "width": 114,
+          "height": 20,
+          "name": "Towny meny",
+          "x": 32,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Agrandir son claim",
+          "width": 114,
+          "height": 20,
+          "name": "Agrandir son claim",
+          "x": 32,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Regarder son compte",
+          "width": 114,
+          "height": 20,
+          "name": "Regarder son compte",
+          "x": 156,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Retour au lobby",
+          "width": 114,
+          "height": 20,
+          "name": "Retour au lobby",
+          "x": 156,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Compte ville/maison",
+          "width": 114,
+          "height": 20,
+          "name": "Compte ville/maison",
+          "x": 32,
+          "y": 83
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Ajouter sur compte",
+          "width": 114,
+          "height": 20,
+          "name": "Ajouter sur compte",
+          "x": 32,
+          "y": 105
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Retirer sur compte",
+          "width": 114,
+          "height": 20,
+          "name": "Retirer sur compte",
+          "x": 32,
+          "y": 127
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Poser un home",
+          "width": 114,
+          "height": 20,
+          "name": "Poser un home",
+          "x": 156,
+          "y": 83
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Retour au home",
+          "width": 114,
+          "height": 20,
+          "name": "Retour au home",
+          "x": 156,
+          "y": 105
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Acheter du claim",
+          "width": 114,
+          "height": 20,
+          "name": "Acheter du claim",
+          "x": 32,
+          "y": 149
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Créer avant post",
+          "width": 114,
+          "height": 20,
+          "name": "Créer avant post",
+          "x": 32,
+          "y": 172
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

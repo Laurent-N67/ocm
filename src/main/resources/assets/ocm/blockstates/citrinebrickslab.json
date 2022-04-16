@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/citrinebrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/citrinebrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/citrinebrickslab_full"
+    }
+  }
+}

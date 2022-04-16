@@ -1,0 +1,142 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 252,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Nom : <VAR:playername>",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Nom : <VAR:playername>",
+          "x": 105,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Suicide",
+          "onClick": {
+            "name": "Kill"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "Suicide",
+          "x": 107,
+          "y": 174
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Spawn",
+          "onClick": {
+            "name": "Spawn"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Spawn",
+          "x": 152,
+          "y": 174
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "onClick": {
+            "name": "Openwarpmenu"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "<",
+          "x": 101,
+          "y": 46
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ">",
+          "onClick": {
+            "name": "Artifact"
+          },
+          "width": 30,
+          "height": 20,
+          "name": ">",
+          "x": 297,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Lvl <VAR:integer:Aventurelevel>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Lvl <VAR:integer:Aventurelevel>",
+          "x": 105,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "odyseemenubook.png",
+          "use1Xscale": false,
+          "name": "odyseemenubook.png",
+          "x": 87,
+          "y": 37
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "set home",
+          "onClick": {
+            "name": "Sethome"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "set home",
+          "x": 222,
+          "y": 174
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "home",
+          "onClick": {
+            "name": "Home"
+          },
+          "width": 46,
+          "height": 20,
+          "name": "home",
+          "x": 278,
+          "y": 174
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

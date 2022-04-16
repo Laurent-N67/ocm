@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "ocm:metalstick"
+    },
+    "3": {
+      "item": "ocm:metalstick"
+    },
+    "4": {
+      "item": "ocm:hammerjade"
+    },
+    "5": {
+      "item": "ocm:metalstick"
+    },
+    "7": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:ironframe",
+    "count": 2
+  }
+}

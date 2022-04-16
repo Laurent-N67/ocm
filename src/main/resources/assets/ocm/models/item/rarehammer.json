@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/rarehammer",
+  "textures": {
+    "2": "ocm:blocks/obsidian",
+    "3": "ocm:blocks/blastfurnacetop",
+    "particle": "ocm:items/mythril_sword"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "char (10)",
+        "5": "lapis_blockalpha"
+      },
+      "name": "default"
+    }
+  }
+}

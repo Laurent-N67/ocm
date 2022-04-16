@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/emerald_tiles-small",
+    "up": "ocm:blocks/emerald_tiles-small",
+    "north": "ocm:blocks/emerald_tiles-small",
+    "east": "ocm:blocks/emerald_tiles-small",
+    "south": "ocm:blocks/emerald_tiles-small",
+    "west": "ocm:blocks/emerald_tiles-small",
+    "particle": "ocm:blocks/emerald_tiles-small"
+  }
+}

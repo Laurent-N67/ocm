@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/blumplankslab"
+    },
+    "type=top": {
+      "model": "ocm:block/blumplankslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/blumplankslab_full"
+    }
+  }
+}

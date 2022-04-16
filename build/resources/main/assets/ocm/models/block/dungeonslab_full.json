@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ocm:blocks/dungeonblock",
+    "top": "ocm:blocks/dungeonblock",
+    "side": "ocm:blocks/dungeonblock"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/marble_ore",
+    "particle": "ocm:blocks/marble_ore"
+  }
+}

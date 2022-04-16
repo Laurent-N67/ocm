@@ -1,0 +1,57 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Hellplain"
+      },
+      {
+        "value": "CUSTOM:Hellocean"
+      },
+      {
+        "value": "CUSTOM:Hellmountain"
+      },
+      {
+        "value": "CUSTOM:Hellforest"
+      },
+      {
+        "value": "CUSTOM:Hellhighmountain"
+      },
+      {
+        "value": "CUSTOM:Hellhighforest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Hellstone"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Hellportalblock"
+    },
+    "portalParticles": {
+      "value": "SPELL"
+    },
+    "portalLuminance": 6,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Hell Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "hellkey",
+    "portalTexture": "hell_portal",
+    "enablePortal": true
+  }
+}

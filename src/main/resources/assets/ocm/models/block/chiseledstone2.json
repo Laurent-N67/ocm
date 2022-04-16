@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/lodestone_top",
+    "up": "ocm:blocks/lodestone_top",
+    "north": "ocm:blocks/lodestone_top",
+    "east": "ocm:blocks/lodestone_top",
+    "south": "ocm:blocks/lodestone_top",
+    "west": "ocm:blocks/lodestone_top",
+    "particle": "ocm:blocks/lodestone_top"
+  }
+}

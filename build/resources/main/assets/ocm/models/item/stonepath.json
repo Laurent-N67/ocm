@@ -1,0 +1,7 @@
+{
+  "parent": "ocm:custom/path1",
+  "textures": {
+    "2": "ocm:blocks/stone",
+    "particle": "ocm:items/stonepath"
+  }
+}

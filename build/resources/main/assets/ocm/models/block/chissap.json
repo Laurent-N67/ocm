@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/saphirchiseled",
+    "up": "ocm:blocks/saphirchiseled",
+    "north": "ocm:blocks/saphirchiseled",
+    "east": "ocm:blocks/saphirchiseled",
+    "south": "ocm:blocks/saphirchiseled",
+    "west": "ocm:blocks/saphirchiseled",
+    "particle": "ocm:blocks/saphirchiseled"
+  }
+}

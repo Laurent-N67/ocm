@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "citrine_ore_block",
+        "1": "anvil_base"
+      },
+      "name": "default"
+    }
+  }
+}

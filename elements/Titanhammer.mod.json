@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanhammer",
+    "customModelName": "Normal",
+    "name": "Titane hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 18,
+    "efficiency": 18.0,
+    "attackSpeed": 1.0,
+    "enchantability": 50,
+    "damageVsEntity": 10.0,
+    "usageCount": 5677,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "HammerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

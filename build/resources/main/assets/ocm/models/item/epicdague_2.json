@@ -1,0 +1,7 @@
+{
+  "parent": "ocm:custom/dagueepic2",
+  "textures": {
+    "2": "ocm:blocks/iron_blockalpha",
+    "particle": "ocm:items/mythril_sword"
+  }
+}

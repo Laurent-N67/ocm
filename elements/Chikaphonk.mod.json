@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "discchikaphonk",
+    "name": "Chika phonk",
+    "description": "Chika phonk remix from Youtube",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:chikaphonkversion"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

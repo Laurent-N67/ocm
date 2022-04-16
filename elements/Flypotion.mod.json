@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Fly",
+    "splashName": "Splash Potion of Fly",
+    "lingeringName": "Lingering Potion of Fly",
+    "arrowName": "Arrow of Fly",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Fly"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

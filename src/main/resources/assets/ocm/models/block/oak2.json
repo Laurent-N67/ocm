@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/oakplate",
+    "up": "ocm:blocks/oakplate",
+    "north": "ocm:blocks/oakplate",
+    "east": "ocm:blocks/oakplate",
+    "south": "ocm:blocks/oakplate",
+    "west": "ocm:blocks/oakplate",
+    "particle": "ocm:blocks/oakplate"
+  }
+}

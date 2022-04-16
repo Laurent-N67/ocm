@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ocm:burningoil",
+    "ocm:burningoil_flowing",
+    "ocm:liquideobscure",
+    "ocm:liquideobscure_flowing",
+    "ocm:meltingfluid",
+    "ocm:meltingfluid_flowing"
+  ]
+}

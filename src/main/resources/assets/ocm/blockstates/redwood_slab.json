@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/redwood_slab"
+    },
+    "type=top": {
+      "model": "ocm:block/redwood_slab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/redwood_slab_full"
+    }
+  }
+}

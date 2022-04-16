@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "ocm:blocks/slate_bricks-solid",
+    "particle": "ocm:blocks/slate_bricks-solid"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "appletree",
+        "2": "stone1",
+        "3": "dirt",
+        "4": "barrel_top",
+        "5": "log_oak"
+      },
+      "name": "default"
+    }
+  }
+}

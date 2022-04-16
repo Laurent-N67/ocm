@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/chaotic-small",
+    "up": "ocm:blocks/chaotic-small",
+    "north": "ocm:blocks/chaotic-small",
+    "east": "ocm:blocks/chaotic-small",
+    "south": "ocm:blocks/chaotic-small",
+    "west": "ocm:blocks/chaotic-small",
+    "particle": "ocm:blocks/chaotic-small"
+  }
+}

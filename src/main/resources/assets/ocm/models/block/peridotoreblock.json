@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/peridot_panel",
+    "up": "ocm:blocks/peridot_panel",
+    "north": "ocm:blocks/peridot_panel",
+    "east": "ocm:blocks/peridot_panel",
+    "south": "ocm:blocks/peridot_panel",
+    "west": "ocm:blocks/peridot_panel",
+    "particle": "ocm:blocks/peridot_panel"
+  }
+}

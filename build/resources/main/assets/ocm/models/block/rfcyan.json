@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/rooftcyan",
+  "textures": {
+    "all": "ocm:blocks/salteblue",
+    "particle": "ocm:blocks/salteblue",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salteblue",
+    "missing": "ocm:blocks/planks_oak"
+  }
+}

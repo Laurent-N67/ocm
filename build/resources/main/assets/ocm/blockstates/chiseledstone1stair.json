@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/chiseledstone1stair"
+    },
+    "type=top": {
+      "model": "ocm:block/chiseledstone1stair_top"
+    },
+    "type=double": {
+      "model": "ocm:block/chiseledstone1stair_full"
+    }
+  }
+}

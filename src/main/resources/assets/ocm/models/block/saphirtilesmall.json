@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/saphir_tiles-small",
+    "up": "ocm:blocks/saphir_tiles-small",
+    "north": "ocm:blocks/saphir_tiles-small",
+    "east": "ocm:blocks/saphir_tiles-small",
+    "south": "ocm:blocks/saphir_tiles-small",
+    "west": "ocm:blocks/saphir_tiles-small",
+    "particle": "ocm:blocks/saphir_tiles-small"
+  }
+}

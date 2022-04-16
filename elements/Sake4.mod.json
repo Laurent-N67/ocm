@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "sake4",
+    "customModelName": "Normal",
+    "name": "Sake",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 6,
+    "saturation": 0.3,
+    "eatingSpeed": 64,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false
+  }
+}

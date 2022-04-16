@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "ocm:blocks/whitewood_planks",
+    "particle": "ocm:blocks/whitewood_planks"
+  }
+}

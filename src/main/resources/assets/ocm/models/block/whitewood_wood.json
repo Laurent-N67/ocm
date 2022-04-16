@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/whitewood_log_side",
+    "particle": "ocm:blocks/whitewood_log_side"
+  }
+}

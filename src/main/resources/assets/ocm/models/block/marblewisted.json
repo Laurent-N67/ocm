@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/marble_twisted-side",
+    "up": "ocm:blocks/marble_twisted-side",
+    "north": "ocm:blocks/marble_twisted-side",
+    "east": "ocm:blocks/marble_twisted-side",
+    "south": "ocm:blocks/marble_twisted-side",
+    "west": "ocm:blocks/marble_twisted-side",
+    "particle": "ocm:blocks/marble_twisted-side"
+  }
+}

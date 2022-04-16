@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/brickblock",
+    "up": "ocm:blocks/brickblock",
+    "north": "ocm:blocks/brickblock",
+    "east": "ocm:blocks/brickblock",
+    "south": "ocm:blocks/brickblock",
+    "west": "ocm:blocks/brickblock",
+    "particle": "ocm:blocks/brickblock"
+  }
+}

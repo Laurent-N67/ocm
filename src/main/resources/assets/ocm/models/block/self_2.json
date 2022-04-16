@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/self2",
+  "textures": {
+    "all": "ocm:blocks/barrel_top",
+    "particle": "ocm:blocks/barrel_top",
+    "2": "ocm:blocks/log_oak",
+    "3": "ocm:blocks/log_jungle_top",
+    "4": "ocm:blocks/barrel_top"
+  }
+}

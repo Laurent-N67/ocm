@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/japlanterpink",
+  "textures": {
+    "all": "ocm:blocks/japlantpink",
+    "particle": "ocm:blocks/japlantpink",
+    "0": "ocm:blocks/japlantpink"
+  }
+}

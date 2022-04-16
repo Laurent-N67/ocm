@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/peridot_tiles-medium",
+    "up": "ocm:blocks/peridot_tiles-medium",
+    "north": "ocm:blocks/peridot_tiles-medium",
+    "east": "ocm:blocks/peridot_tiles-medium",
+    "south": "ocm:blocks/peridot_tiles-medium",
+    "west": "ocm:blocks/peridot_tiles-medium",
+    "particle": "ocm:blocks/peridot_tiles-medium"
+  }
+}

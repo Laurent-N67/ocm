@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "ocm:blocks/dark_prismarine",
+    "top": "ocm:blocks/dark_prismarine",
+    "side": "ocm:blocks/dark_prismarine"
+  }
+}

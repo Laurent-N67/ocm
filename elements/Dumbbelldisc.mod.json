@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "discdumbbells",
+    "name": "Start Lifting Dumbbells, and Your Life Will Change",
+    "description": "Dumbbells opening remix from Youtube",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:start_lifting_dumbbells"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

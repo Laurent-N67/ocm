@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/incornerslateyello",
+  "textures": {
+    "all": "ocm:blocks/salteyellow",
+    "particle": "ocm:blocks/salteyellow",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salteyellow"
+  }
+}

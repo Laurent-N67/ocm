@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/onyx_tiles-medium",
+    "up": "ocm:blocks/onyx_tiles-medium",
+    "north": "ocm:blocks/onyx_tiles-medium",
+    "east": "ocm:blocks/onyx_tiles-medium",
+    "south": "ocm:blocks/onyx_tiles-medium",
+    "west": "ocm:blocks/onyx_tiles-medium",
+    "particle": "ocm:blocks/onyx_tiles-medium"
+  }
+}

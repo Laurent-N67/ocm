@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "mythril_axe",
+    "customModelName": "Normal",
+    "name": "Mythril Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 50,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 122,
+    "damageVsEntity": 17.0,
+    "usageCount": 20950,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

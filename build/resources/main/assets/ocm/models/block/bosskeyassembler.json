@@ -1,0 +1,11 @@
+{
+  "parent": "ocm:custom/bosskeyassembler",
+  "textures": {
+    "all": "ocm:blocks/obsidian",
+    "particle": "ocm:blocks/obsidian",
+    "0": "ocm:blocks/obsidian",
+    "1": "ocm:blocks/anvil_base",
+    "2": "ocm:blocks/iron_blocksteelbig96",
+    "3": "ocm:blocks/bosskey"
+  }
+}

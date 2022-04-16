@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/end_stone_bricks",
+    "particle": "ocm:blocks/end_stone_bricks"
+  }
+}

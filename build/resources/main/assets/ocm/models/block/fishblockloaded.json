@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/fishmantrapload",
+    "up": "ocm:blocks/fishmantrapload",
+    "north": "ocm:blocks/fishmantrapload",
+    "east": "ocm:blocks/fishmantrapload",
+    "south": "ocm:blocks/fishmantrapload",
+    "west": "ocm:blocks/fishmantrapload",
+    "particle": "ocm:blocks/fishmantrapload"
+  }
+}

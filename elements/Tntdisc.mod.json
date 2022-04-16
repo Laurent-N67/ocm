@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disctnt",
+    "name": "TnT Parody",
+    "description": "TnT Parody remix from Youtube",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:tntminecraftparody"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

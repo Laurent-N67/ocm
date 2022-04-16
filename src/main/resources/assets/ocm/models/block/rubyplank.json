@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/rubis_oak",
+    "up": "ocm:blocks/rubis_oak",
+    "north": "ocm:blocks/rubis_oak",
+    "east": "ocm:blocks/rubis_oak",
+    "south": "ocm:blocks/rubis_oak",
+    "west": "ocm:blocks/rubis_oak",
+    "particle": "ocm:blocks/rubis_oak"
+  }
+}

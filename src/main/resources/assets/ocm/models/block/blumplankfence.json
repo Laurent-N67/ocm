@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "ocm:blocks/blum_oak",
+    "particle": "ocm:blocks/blum_oak"
+  }
+}

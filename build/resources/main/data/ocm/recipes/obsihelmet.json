@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:obsidieningot"
+    },
+    "1": {
+      "item": "ocm:obsidieningot"
+    },
+    "2": {
+      "item": "ocm:obsidieningot"
+    },
+    "3": {
+      "item": "ocm:obsidieningot"
+    },
+    "5": {
+      "item": "ocm:obsidieningot"
+    }
+  },
+  "result": {
+    "item": "ocm:obsidien_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/kyanite_ore_block",
+    "particle": "ocm:blocks/kyanite_ore_block"
+  }
+}

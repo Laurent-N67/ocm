@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/fishmantrap",
+    "particle": "ocm:blocks/fishmantrap"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/mithril_tile",
+    "up": "ocm:blocks/mithril_tile",
+    "north": "ocm:blocks/mithril_tile",
+    "east": "ocm:blocks/mithril_tile",
+    "south": "ocm:blocks/mithril_tile",
+    "west": "ocm:blocks/mithril_tile",
+    "particle": "ocm:blocks/mithril_tile"
+  }
+}

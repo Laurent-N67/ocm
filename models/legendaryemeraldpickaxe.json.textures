@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "polished_andesite",
+        "1": "anvil_base",
+        "2": "greenemerald"
+      },
+      "name": "default"
+    }
+  }
+}

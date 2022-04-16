@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/crate",
+  "textures": {
+    "all": "ocm:blocks/barrel_top",
+    "particle": "ocm:blocks/barrel_top",
+    "0": "ocm:blocks/barrel_side",
+    "5": "ocm:blocks/barrel_top"
+  }
+}

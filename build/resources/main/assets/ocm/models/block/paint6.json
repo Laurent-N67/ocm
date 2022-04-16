@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/paint6",
+  "textures": {
+    "all": "ocm:blocks/paint6",
+    "particle": "ocm:blocks/paint6",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/paint6"
+  }
+}

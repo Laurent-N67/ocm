@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/ljwht",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/ljwht"
+    },
+    "axis=z": {
+      "model": "ocm:block/ljwht",
+      "x": 90
+    }
+  }
+}

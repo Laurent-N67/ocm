@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/gravsb"
+    },
+    "type=top": {
+      "model": "ocm:block/gravsb_top"
+    },
+    "type=double": {
+      "model": "ocm:block/gravsb_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:wnstg_1"
+    }
+  ],
+  "result": {
+    "item": "ocm:wine_2",
+    "count": 3
+  }
+}

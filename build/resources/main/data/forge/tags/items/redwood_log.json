@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "ocm:redwood_wood",
+    "ocm:redwood_log"
+  ]
+}

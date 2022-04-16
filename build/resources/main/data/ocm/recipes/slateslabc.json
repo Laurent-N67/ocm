@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:tuileard"
+    },
+    "1": {
+      "item": "ocm:tuileard"
+    },
+    "2": {
+      "item": "ocm:tuileard"
+    }
+  },
+  "result": {
+    "item": "ocm:slateslab",
+    "count": 3
+  }
+}

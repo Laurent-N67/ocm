@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/marble_road",
+    "up": "ocm:blocks/marble_road",
+    "north": "ocm:blocks/marble_road",
+    "east": "ocm:blocks/marble_road",
+    "south": "ocm:blocks/marble_road",
+    "west": "ocm:blocks/marble_road",
+    "particle": "ocm:blocks/marble_road"
+  }
+}

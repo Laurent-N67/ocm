@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/tronestoneblue",
+  "textures": {
+    "all": "ocm:blocks/stone_andesite_smooth",
+    "particle": "ocm:blocks/stone_andesite_smooth",
+    "0": "ocm:blocks/stone_andesite_smooth",
+    "2": "ocm:blocks/wool_colored_blue"
+  }
+}

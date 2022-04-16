@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/peridotbrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/peridotbrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/peridotbrickslab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/piston_bottom",
+    "up": "ocm:blocks/piston_bottom",
+    "north": "ocm:blocks/holpisblock",
+    "east": "ocm:blocks/piston_bottom",
+    "south": "ocm:blocks/piston_bottom",
+    "west": "ocm:blocks/piston_bottom",
+    "particle": "ocm:blocks/piston_bottom"
+  }
+}

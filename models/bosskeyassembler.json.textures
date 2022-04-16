@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "obsidian",
+        "1": "anvil_base",
+        "2": "iron_blocksteelbig96",
+        "3": "bosskey"
+      },
+      "name": "default"
+    }
+  }
+}

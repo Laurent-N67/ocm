@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Scieamber"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Metalstick"
+      },
+      {
+        "value": "CUSTOM:Metalstick"
+      },
+      {
+        "value": "CUSTOM:Metalstick"
+      },
+      {
+        "value": "CUSTOM:Metalstick"
+      },
+      {
+        "value": "CUSTOM:Metalstick"
+      },
+      {
+        "value": "CUSTOM:Metalstick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Fencespikesbottom"
+    },
+    "name": "ironbars_4craft_1",
+    "namespace": "mod"
+  }
+}

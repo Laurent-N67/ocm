@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/dungeonpillar",
+    "up": "ocm:blocks/dungeonpillar",
+    "north": "ocm:blocks/dungeonpillar",
+    "east": "ocm:blocks/dungeonpillar",
+    "south": "ocm:blocks/dungeonpillar",
+    "west": "ocm:blocks/dungeonpillar",
+    "particle": "ocm:blocks/dungeonpillar"
+  }
+}

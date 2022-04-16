@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/titaneingotblockslab"
+    },
+    "type=top": {
+      "model": "ocm:block/titaneingotblockslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/titaneingotblockslab_full"
+    }
+  }
+}

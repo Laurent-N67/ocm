@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/redwood_log_top",
+    "up": "ocm:blocks/redwood_log_top",
+    "north": "ocm:blocks/redwood_log_side",
+    "east": "ocm:blocks/redwood_log_side",
+    "south": "ocm:blocks/redwood_log_side",
+    "west": "ocm:blocks/redwood_log_side",
+    "particle": "ocm:blocks/redwood_log_top"
+  }
+}

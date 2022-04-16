@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/ironsupporthead"
+    },
+    "facing=east": {
+      "model": "ocm:block/ironsupporthead",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/ironsupporthead",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/ironsupporthead",
+      "y": 270
+    }
+  }
+}

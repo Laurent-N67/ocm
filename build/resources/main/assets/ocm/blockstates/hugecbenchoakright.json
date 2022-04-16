@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/hugecbenchoakright"
+    },
+    "facing=east": {
+      "model": "ocm:block/hugecbenchoakright",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/hugecbenchoakright",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/hugecbenchoakright",
+      "y": 270
+    }
+  }
+}

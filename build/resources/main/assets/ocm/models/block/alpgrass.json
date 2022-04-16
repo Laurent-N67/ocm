@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/dirt",
+    "up": "ocm:blocks/grass_block_top",
+    "north": "ocm:blocks/grass_sidealpha",
+    "east": "ocm:blocks/grass_sidealpha",
+    "south": "ocm:blocks/grass_sidealpha",
+    "west": "ocm:blocks/grass_sidealpha",
+    "particle": "ocm:blocks/dirt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/marble_tiles-small",
+    "up": "ocm:blocks/marble_tiles-small",
+    "north": "ocm:blocks/marble_tiles-small",
+    "east": "ocm:blocks/marble_tiles-small",
+    "south": "ocm:blocks/marble_tiles-small",
+    "west": "ocm:blocks/marble_tiles-small",
+    "particle": "ocm:blocks/marble_tiles-small"
+  }
+}

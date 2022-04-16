@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/dungeonbirchwood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/dungeonbirchwood"
+    },
+    "axis=z": {
+      "model": "ocm:block/dungeonbirchwood",
+      "x": 90
+    }
+  }
+}

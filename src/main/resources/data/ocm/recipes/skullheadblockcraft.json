@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:hammerplatine"
+    },
+    "1": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "ocm:skullheadblock",
+    "count": 1
+  }
+}

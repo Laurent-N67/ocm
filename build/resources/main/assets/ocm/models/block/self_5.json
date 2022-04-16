@@ -1,0 +1,11 @@
+{
+  "parent": "ocm:custom/self5",
+  "textures": {
+    "all": "ocm:blocks/barrel_top",
+    "particle": "ocm:blocks/barrel_top",
+    "2": "ocm:blocks/brickss",
+    "3": "ocm:blocks/dirt",
+    "4": "ocm:blocks/barrel_top",
+    "5": "ocm:blocks/roseau"
+  }
+}

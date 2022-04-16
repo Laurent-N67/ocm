@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/leek_stage_3",
+    "particle": "ocm:blocks/leek_stage_3"
+  }
+}

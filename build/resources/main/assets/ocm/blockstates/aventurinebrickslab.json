@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/aventurinebrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/aventurinebrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/aventurinebrickslab_full"
+    }
+  }
+}

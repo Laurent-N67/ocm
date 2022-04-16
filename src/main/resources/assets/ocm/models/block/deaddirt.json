@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/deaddirt",
+    "up": "ocm:blocks/deaddirt",
+    "north": "ocm:blocks/deaddirt",
+    "east": "ocm:blocks/deaddirt",
+    "south": "ocm:blocks/deaddirt",
+    "west": "ocm:blocks/deaddirt",
+    "particle": "ocm:blocks/deaddirt"
+  }
+}

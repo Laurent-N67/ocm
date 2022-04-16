@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/oaktwoplank",
+    "up": "ocm:blocks/oaktwoplank",
+    "north": "ocm:blocks/oaktwoplank",
+    "east": "ocm:blocks/oaktwoplank",
+    "south": "ocm:blocks/oaktwoplank",
+    "west": "ocm:blocks/oaktwoplank",
+    "particle": "ocm:blocks/oaktwoplank"
+  }
+}

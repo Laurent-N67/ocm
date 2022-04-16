@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disclotusreimu",
+    "name": "Dichromatic Lotus Butterfly",
+    "description": "UNL reimu theme from Touhou",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:unl_reimu_lotus"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

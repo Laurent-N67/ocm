@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/ruby_road",
+    "up": "ocm:blocks/ruby_road",
+    "north": "ocm:blocks/ruby_road",
+    "east": "ocm:blocks/ruby_road",
+    "south": "ocm:blocks/ruby_road",
+    "west": "ocm:blocks/ruby_road",
+    "particle": "ocm:blocks/ruby_road"
+  }
+}

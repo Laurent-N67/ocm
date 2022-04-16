@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone",
+        "1": "lantern2"
+      },
+      "name": "default"
+    }
+  }
+}

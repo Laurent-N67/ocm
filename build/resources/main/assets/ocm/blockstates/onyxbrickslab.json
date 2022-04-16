@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/onyxbrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/onyxbrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/onyxbrickslab_full"
+    }
+  }
+}

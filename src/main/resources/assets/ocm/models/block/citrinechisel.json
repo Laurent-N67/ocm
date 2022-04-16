@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/citrine_road",
+    "up": "ocm:blocks/citrine_road",
+    "north": "ocm:blocks/citrine_road",
+    "east": "ocm:blocks/citrine_road",
+    "south": "ocm:blocks/citrine_road",
+    "west": "ocm:blocks/citrine_road",
+    "particle": "ocm:blocks/citrine_road"
+  }
+}

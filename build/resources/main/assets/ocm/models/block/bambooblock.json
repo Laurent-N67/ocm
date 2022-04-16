@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/bamboo_planks",
+    "up": "ocm:blocks/bamboo_planks",
+    "north": "ocm:blocks/bamboo_planks",
+    "east": "ocm:blocks/bamboo_planks",
+    "south": "ocm:blocks/bamboo_planks",
+    "west": "ocm:blocks/bamboo_planks",
+    "particle": "ocm:blocks/bamboo_planks"
+  }
+}

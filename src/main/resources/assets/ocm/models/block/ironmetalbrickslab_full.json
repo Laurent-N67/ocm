@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ocm:blocks/iron_metalbrick",
+    "top": "ocm:blocks/iron_metalbrick",
+    "side": "ocm:blocks/iron_metalbrick"
+  }
+}

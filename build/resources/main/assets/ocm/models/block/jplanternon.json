@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/japlanternon",
+  "textures": {
+    "all": "ocm:blocks/stone",
+    "particle": "ocm:blocks/stone",
+    "0": "ocm:blocks/stone",
+    "1": "ocm:blocks/lantern2"
+  }
+}

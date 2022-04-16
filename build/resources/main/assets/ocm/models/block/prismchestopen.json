@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/prismchesttwo",
+  "textures": {
+    "all": "ocm:blocks/aquacrystalstone",
+    "particle": "ocm:blocks/aquacrystalstone",
+    "0": "ocm:blocks/aquacrystalstone",
+    "1": "ocm:blocks/chestskin"
+  }
+}

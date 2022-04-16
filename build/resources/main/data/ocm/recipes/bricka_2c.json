@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ocm:chisbk_2"
+  },
+  "result": "ocm:chisbk_3"
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disctnt",
+    "name": "Argue for and against",
+    "description": "Argue for and against from Touhou",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:argueforandagainst"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

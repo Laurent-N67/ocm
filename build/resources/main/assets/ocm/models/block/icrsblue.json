@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/incornerslateblue",
+  "textures": {
+    "all": "ocm:blocks/salteyblue",
+    "particle": "ocm:blocks/salteyblue",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salteyblue"
+  }
+}

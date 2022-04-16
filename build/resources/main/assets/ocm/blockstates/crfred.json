@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/crfred"
+    },
+    "facing=east": {
+      "model": "ocm:block/crfred",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/crfred",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/crfred",
+      "y": 270
+    }
+  }
+}

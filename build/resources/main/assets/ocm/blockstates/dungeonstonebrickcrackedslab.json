@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/dungeonstonebrickcrackedslab"
+    },
+    "type=top": {
+      "model": "ocm:block/dungeonstonebrickcrackedslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/dungeonstonebrickcrackedslab_full"
+    }
+  }
+}

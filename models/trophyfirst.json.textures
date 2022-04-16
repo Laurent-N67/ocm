@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "char (9)",
+        "2": "anvil_base",
+        "4": "planks_birch",
+        "first": "first"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/sacredcrusify"
+    },
+    "facing=east": {
+      "model": "ocm:block/sacredcrusify",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/sacredcrusify",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/sacredcrusify",
+      "y": 270
+    }
+  }
+}

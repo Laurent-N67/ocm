@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/brickss",
+    "top": "ocm:blocks/brickss",
+    "side": "ocm:blocks/brickss"
+  }
+}

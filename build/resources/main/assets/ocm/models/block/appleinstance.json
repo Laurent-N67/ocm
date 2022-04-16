@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/apple",
+  "textures": {
+    "all": "ocm:blocks/apple20100105",
+    "particle": "ocm:blocks/apple20100105",
+    "0": "ocm:blocks/"
+  }
+}

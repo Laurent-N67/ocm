@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/ritualcenterstone"
+    },
+    "facing=east": {
+      "model": "ocm:block/ritualcenterstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/ritualcenterstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/ritualcenterstone",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/mithril_metalbrick",
+    "top": "ocm:blocks/mithril_metalbrick",
+    "side": "ocm:blocks/mithril_metalbrick"
+  }
+}

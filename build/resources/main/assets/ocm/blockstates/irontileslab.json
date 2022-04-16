@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/irontileslab"
+    },
+    "type=top": {
+      "model": "ocm:block/irontileslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/irontileslab_full"
+    }
+  }
+}

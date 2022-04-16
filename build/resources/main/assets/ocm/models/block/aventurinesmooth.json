@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/aventurine_raw",
+    "up": "ocm:blocks/aventurine_raw",
+    "north": "ocm:blocks/aventurine_raw",
+    "east": "ocm:blocks/aventurine_raw",
+    "south": "ocm:blocks/aventurine_raw",
+    "west": "ocm:blocks/aventurine_raw",
+    "particle": "ocm:blocks/aventurine_raw"
+  }
+}

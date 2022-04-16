@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "feather": "feather",
+        "2": "booktemplate1",
+        "book": "crossedblackwindows"
+      },
+      "name": "default"
+    }
+  }
+}

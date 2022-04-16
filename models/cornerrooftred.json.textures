@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "candlestub",
+        "1": "cadred",
+        "missing": "flame"
+      },
+      "name": "default"
+    }
+  }
+}

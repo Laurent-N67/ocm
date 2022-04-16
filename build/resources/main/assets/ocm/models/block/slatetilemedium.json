@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/slate_tiles-medium",
+    "up": "ocm:blocks/slate_tiles-medium",
+    "north": "ocm:blocks/slate_tiles-medium",
+    "east": "ocm:blocks/slate_tiles-medium",
+    "south": "ocm:blocks/slate_tiles-medium",
+    "west": "ocm:blocks/slate_tiles-medium",
+    "particle": "ocm:blocks/slate_tiles-medium"
+  }
+}

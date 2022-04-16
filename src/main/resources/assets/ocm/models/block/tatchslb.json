@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/thatch",
+    "top": "ocm:blocks/thatch",
+    "side": "ocm:blocks/thatch"
+  }
+}

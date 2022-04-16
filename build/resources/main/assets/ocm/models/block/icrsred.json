@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/incornerslatered",
+  "textures": {
+    "all": "ocm:blocks/salteyredred",
+    "particle": "ocm:blocks/salteyredred",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salteyredred"
+  }
+}

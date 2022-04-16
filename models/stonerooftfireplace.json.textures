@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "black": "wool_colored_black",
+        "missing": "stone",
+        "stone": "stonebrick"
+      },
+      "name": "default"
+    }
+  }
+}

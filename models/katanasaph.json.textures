@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "garde": "citrine_ore_block",
+        "3": "blackstonebrick",
+        "manche*": "wooledpart",
+        "lame": "saphir_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

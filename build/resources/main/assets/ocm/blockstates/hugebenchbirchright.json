@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/hugebenchbirchright"
+    },
+    "facing=east": {
+      "model": "ocm:block/hugebenchbirchright",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/hugebenchbirchright",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/hugebenchbirchright",
+      "y": 270
+    }
+  }
+}

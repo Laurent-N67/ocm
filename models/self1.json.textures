@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "japlantyello",
+        "4": "barrel_top",
+        "7": "japlantblu",
+        "8": "japlantgreen",
+        "9": "japlantorange",
+        "10": "japlantred"
+      },
+      "name": "default"
+    }
+  }
+}

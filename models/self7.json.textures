@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "obsidien_swordbot",
+        "3": "wood_swordbot",
+        "4": "barrel_top",
+        "5": "iron_swordbot",
+        "6": "saphyr_swordbot"
+      },
+      "name": "default"
+    }
+  }
+}

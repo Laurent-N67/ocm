@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/iolitebrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/iolitebrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/iolitebrickslab_full"
+    }
+  }
+}

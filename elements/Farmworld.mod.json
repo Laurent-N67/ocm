@@ -1,0 +1,79 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Farmplain"
+      },
+      {
+        "value": "CUSTOM:Oceanfarm"
+      },
+      {
+        "value": "CUSTOM:Farmdesert"
+      },
+      {
+        "value": "CUSTOM:Farmmountain"
+      },
+      {
+        "value": "CUSTOM:Farmforest"
+      },
+      {
+        "value": "CUSTOM:Farmfrost"
+      },
+      {
+        "value": "CUSTOM:Farmjungle"
+      },
+      {
+        "value": "CUSTOM:Farmforestbigthree"
+      },
+      {
+        "value": "CUSTOM:Farmforestbirchtree"
+      },
+      {
+        "value": "CUSTOM:Farmmegapines"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "CUSTOM:Deadbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -10040065,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Worldfarmfarma"
+    },
+    "portalParticles": {
+      "value": "SPELL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Farmworld Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "worldfarmkey",
+    "portalTexture": "farm_portal",
+    "enablePortal": true
+  }
+}

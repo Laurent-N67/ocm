@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/barreldarkoak",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/barreldarkoak"
+    },
+    "axis=z": {
+      "model": "ocm:block/barreldarkoak",
+      "x": 90
+    }
+  }
+}

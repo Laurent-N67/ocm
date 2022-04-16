@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/sacredcrusify",
+  "textures": {
+    "all": "ocm:blocks/goldchiseled",
+    "particle": "ocm:blocks/goldchiseled",
+    "0": "ocm:blocks/goldchiseled"
+  }
+}

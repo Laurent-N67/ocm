@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:raresilk"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "ocm:raresilk"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "ocm:raresilk"
+    },
+    "5": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "ocm:bandagehigh",
+    "count": 6
+  }
+}

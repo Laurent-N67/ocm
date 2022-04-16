@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/marblebricksmall"
+    },
+    "facing=east": {
+      "model": "ocm:block/marblebricksmall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/marblebricksmall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/marblebricksmall",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "ocm:block/marblebricksmall",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "ocm:block/marblebricksmall",
+      "x": 90
+    }
+  }
+}

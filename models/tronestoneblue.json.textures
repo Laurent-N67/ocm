@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stone_andesite_smooth",
+        "2": "wool_colored_blue"
+      },
+      "name": "default"
+    }
+  }
+}

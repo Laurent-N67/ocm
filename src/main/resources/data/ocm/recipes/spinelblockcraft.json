@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:spinelle"
+    },
+    "1": {
+      "item": "ocm:spinelle"
+    },
+    "2": {
+      "item": "ocm:spinelle"
+    },
+    "3": {
+      "item": "ocm:spinelle"
+    },
+    "4": {
+      "item": "ocm:spinelle"
+    },
+    "5": {
+      "item": "ocm:spinelle"
+    },
+    "6": {
+      "item": "ocm:spinelle"
+    },
+    "7": {
+      "item": "ocm:spinelle"
+    },
+    "8": {
+      "item": "ocm:spinelle"
+    }
+  },
+  "result": {
+    "item": "ocm:spinelblock",
+    "count": 1
+  }
+}

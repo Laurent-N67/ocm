@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/spinel_road",
+    "up": "ocm:blocks/spinel_road",
+    "north": "ocm:blocks/spinel_road",
+    "east": "ocm:blocks/spinel_road",
+    "south": "ocm:blocks/spinel_road",
+    "west": "ocm:blocks/spinel_road",
+    "particle": "ocm:blocks/spinel_road"
+  }
+}

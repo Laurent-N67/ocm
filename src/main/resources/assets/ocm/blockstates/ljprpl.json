@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/ljprpl",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/ljprpl"
+    },
+    "axis=z": {
+      "model": "ocm:block/ljprpl",
+      "x": 90
+    }
+  }
+}

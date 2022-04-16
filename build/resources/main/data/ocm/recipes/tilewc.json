@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:tuileard"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "ocm:tuileard"
+    }
+  ],
+  "result": {
+    "item": "ocm:tilblu",
+    "count": 2
+  }
+}

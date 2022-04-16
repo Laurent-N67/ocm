@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/aventurine_road",
+    "up": "ocm:blocks/aventurine_road",
+    "north": "ocm:blocks/aventurine_road",
+    "east": "ocm:blocks/aventurine_road",
+    "south": "ocm:blocks/aventurine_road",
+    "west": "ocm:blocks/aventurine_road",
+    "particle": "ocm:blocks/aventurine_road"
+  }
+}

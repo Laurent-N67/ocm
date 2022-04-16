@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "ocm:blocks/slate_bricks-solid",
+    "particle": "ocm:blocks/slate_bricks-solid"
+  }
+}

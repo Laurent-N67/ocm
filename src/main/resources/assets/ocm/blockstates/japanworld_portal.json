@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ocm:block/japanworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "ocm:block/japanworld_portal_ns"
+    }
+  }
+}

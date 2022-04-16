@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:onyx"
+    },
+    "1": {
+      "item": "ocm:onyx"
+    },
+    "2": {
+      "item": "ocm:onyx"
+    },
+    "3": {
+      "item": "ocm:onyx"
+    },
+    "4": {
+      "item": "ocm:onyx"
+    },
+    "5": {
+      "item": "ocm:onyx"
+    },
+    "6": {
+      "item": "ocm:onyx"
+    },
+    "7": {
+      "item": "ocm:onyx"
+    },
+    "8": {
+      "item": "ocm:onyx"
+    }
+  },
+  "result": {
+    "item": "ocm:onyxoreblock",
+    "count": 1
+  }
+}

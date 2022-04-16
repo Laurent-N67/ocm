@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/portalcyan",
+    "up": "ocm:blocks/portalcyan",
+    "north": "ocm:blocks/portalcyan",
+    "east": "ocm:blocks/portalcyan",
+    "south": "ocm:blocks/portalcyan",
+    "west": "ocm:blocks/portalcyan",
+    "particle": "ocm:blocks/portalcyan"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "ocm:blocks/rubis_oak",
+    "top": "ocm:blocks/rubis_oak",
+    "side": "ocm:blocks/rubis_oak"
+  }
+}

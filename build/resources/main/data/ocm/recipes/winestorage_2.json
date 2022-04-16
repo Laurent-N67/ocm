@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "item": "ocm:wine_2"
+    },
+    "4": {
+      "item": "ocm:wine_2"
+    },
+    "5": {
+      "item": "ocm:wine_2"
+    },
+    "6": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "ocm:wnstg_1",
+    "count": 1
+  }
+}

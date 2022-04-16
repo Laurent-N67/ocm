@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/planks_jungle",
+    "top": "ocm:blocks/planks_jungle",
+    "side": "ocm:blocks/planks_jungle"
+  }
+}

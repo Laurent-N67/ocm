@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/marrow0",
+    "particle": "ocm:blocks/marrow0"
+  }
+}

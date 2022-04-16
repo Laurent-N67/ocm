@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "starcrystalblock",
+        "2": "obsidian",
+        "3": "iron_blocksteelbig96glyph"
+      },
+      "name": "default"
+    }
+  }
+}

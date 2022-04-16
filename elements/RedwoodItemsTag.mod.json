@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RedwoodWood"
+      },
+      {
+        "value": "CUSTOM:RedwoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "redwood_log",
+    "namespace": "forge"
+  }
+}

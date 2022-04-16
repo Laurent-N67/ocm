@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/goldsmoothslab"
+    },
+    "type=top": {
+      "model": "ocm:block/goldsmoothslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/goldsmoothslab_full"
+    }
+  }
+}

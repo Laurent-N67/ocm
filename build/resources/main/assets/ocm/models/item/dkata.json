@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/katanadiam",
+  "textures": {
+    "garde": "ocm:blocks/citrine_ore_block",
+    "manche*": "ocm:blocks/wooledpart",
+    "lame": "ocm:blocks/diamond_block",
+    "particle": "ocm:items/swordquest"
+  }
+}

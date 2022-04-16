@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "saltegreen",
+        "missing": "planks_oak"
+      },
+      "name": "default"
+    }
+  }
+}

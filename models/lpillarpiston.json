@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "odyssecraftmod:blocks/piston_top_normal",
+		"particle": "odyssecraftmod:blocks/piston_top_normal"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 16, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [63, 0, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.56, 0.58, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [62, 0, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.6, 0.59, 0.56]
+		},
+		"firstperson_righthand": {
+			"scale": [0.69, 0.69, 0.68]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.7, 0.74, 0.74]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.78, 0.76, 0.82]
+		},
+		"gui": {
+			"rotation": [24, 22, 0],
+			"translation": [-0.25, 0.25, 0],
+			"scale": [0.76, 0.74, 0.72]
+		},
+		"head": {
+			"rotation": [-151, -22, -54],
+			"translation": [-1.5, 1, 5.5],
+			"scale": [0.92, 1.21, 0.87]
+		},
+		"fixed": {
+			"rotation": [1, 0, 0],
+			"translation": [0, 0, -2]
+		}
+	}
+}

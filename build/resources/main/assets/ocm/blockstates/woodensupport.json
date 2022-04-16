@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/woodensupport"
+    },
+    "facing=east": {
+      "model": "ocm:block/woodensupport",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/woodensupport",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/woodensupport",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:silver_ingot"
+    },
+    "1": {
+      "item": "ocm:silver_ingot"
+    },
+    "2": {
+      "item": "ocm:silver_ingot"
+    },
+    "4": {
+      "item": "ocm:metalstick"
+    },
+    "7": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:silver_pickaxe",
+    "count": 1
+  }
+}

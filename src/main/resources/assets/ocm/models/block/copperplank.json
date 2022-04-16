@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/copper_oak",
+    "up": "ocm:blocks/copper_oak",
+    "north": "ocm:blocks/copper_oak",
+    "east": "ocm:blocks/copper_oak",
+    "south": "ocm:blocks/copper_oak",
+    "west": "ocm:blocks/copper_oak",
+    "particle": "ocm:blocks/copper_oak"
+  }
+}

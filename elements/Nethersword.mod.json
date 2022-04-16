@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ether_tar_word",
+    "customModelName": "Normal",
+    "name": "Nether Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 11,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 80,
+    "damageVsEntity": 9.5,
+    "usageCount": 2859,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "NetherswordMobIsHitWithTool"
+    }
+  }
+}

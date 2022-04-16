@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:darksilk"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "ocm:darksilk"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "ocm:darksilk"
+    },
+    "5": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "ocm:bandageperfect",
+    "count": 6
+  }
+}

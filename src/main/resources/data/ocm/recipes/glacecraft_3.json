@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:woodenframe"
+    },
+    "1": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "ocm:woodenframe"
+    }
+  },
+  "result": {
+    "item": "ocm:glass_1",
+    "count": 2
+  }
+}

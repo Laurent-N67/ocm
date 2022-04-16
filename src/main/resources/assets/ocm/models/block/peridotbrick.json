@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/peridot_bricks-solid",
+    "up": "ocm:blocks/peridot_bricks-solid",
+    "north": "ocm:blocks/peridot_bricks-solid",
+    "east": "ocm:blocks/peridot_bricks-solid",
+    "south": "ocm:blocks/peridot_bricks-solid",
+    "west": "ocm:blocks/peridot_bricks-solid",
+    "particle": "ocm:blocks/peridot_bricks-solid"
+  }
+}

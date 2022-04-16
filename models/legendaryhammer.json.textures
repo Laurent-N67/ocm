@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "starcrystalblock",
+        "2": "obsidian"
+      },
+      "name": "default"
+    }
+  }
+}

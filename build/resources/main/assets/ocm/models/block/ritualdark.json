@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/ritualdarkstone",
+  "textures": {
+    "all": "ocm:blocks/citrindarkstone",
+    "particle": "ocm:blocks/citrindarkstone",
+    "0": "ocm:blocks/largest",
+    "1": "ocm:blocks/citrindarkstone"
+  }
+}

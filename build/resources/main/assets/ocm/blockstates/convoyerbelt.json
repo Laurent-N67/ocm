@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/convoyerbelt"
+    },
+    "facing=east": {
+      "model": "ocm:block/convoyerbelt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/convoyerbelt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/convoyerbelt",
+      "y": 270
+    }
+  }
+}

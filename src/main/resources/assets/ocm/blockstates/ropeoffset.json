@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/ropeoffset"
+    },
+    "facing=east": {
+      "model": "ocm:block/ropeoffset",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/ropeoffset",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/ropeoffset",
+      "y": 270
+    }
+  }
+}

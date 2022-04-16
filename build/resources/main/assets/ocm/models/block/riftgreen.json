@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/riftgreen",
+  "textures": {
+    "all": "ocm:blocks/riftgreen1",
+    "particle": "ocm:blocks/riftgreen1",
+    "0": "ocm:blocks/riftgreen1"
+  }
+}

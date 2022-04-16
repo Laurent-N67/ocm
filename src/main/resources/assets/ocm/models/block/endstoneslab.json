@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/end_stone_bricks",
+    "top": "ocm:blocks/end_stone_bricks",
+    "side": "ocm:blocks/end_stone_bricks"
+  }
+}

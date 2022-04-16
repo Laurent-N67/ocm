@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "obsidian",
+        "1": "anvil_base"
+      },
+      "name": "default"
+    }
+  }
+}

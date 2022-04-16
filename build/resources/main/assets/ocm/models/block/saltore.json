@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/saltore",
+    "up": "ocm:blocks/saltore",
+    "north": "ocm:blocks/saltore",
+    "east": "ocm:blocks/saltore",
+    "south": "ocm:blocks/saltore",
+    "west": "ocm:blocks/saltore",
+    "particle": "ocm:blocks/saltore"
+  }
+}

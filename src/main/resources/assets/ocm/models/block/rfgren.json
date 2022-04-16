@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/rooftgreen",
+  "textures": {
+    "all": "ocm:blocks/saltegreen",
+    "particle": "ocm:blocks/saltegreen",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/saltegreen",
+    "missing": "ocm:blocks/planks_oak"
+  }
+}

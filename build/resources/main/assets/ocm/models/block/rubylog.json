@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/rubis_log_top",
+    "up": "ocm:blocks/rubis_log_top",
+    "north": "ocm:blocks/rubis_log_face",
+    "east": "ocm:blocks/rubis_log_face",
+    "south": "ocm:blocks/rubis_log_face",
+    "west": "ocm:blocks/rubis_log_face",
+    "particle": "ocm:blocks/rubis_log_top"
+  }
+}

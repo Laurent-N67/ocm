@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/chairbirch"
+    },
+    "facing=east": {
+      "model": "ocm:block/chairbirch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/chairbirch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/chairbirch",
+      "y": 270
+    }
+  }
+}

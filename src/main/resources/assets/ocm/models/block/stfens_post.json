@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "ocm:blocks/stone",
+    "particle": "ocm:blocks/stone"
+  }
+}

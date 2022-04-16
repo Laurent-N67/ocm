@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/petrifyleaves",
+    "up": "ocm:blocks/petrifyleaves",
+    "north": "ocm:blocks/petrifyleaves",
+    "east": "ocm:blocks/petrifyleaves",
+    "south": "ocm:blocks/petrifyleaves",
+    "west": "ocm:blocks/petrifyleaves",
+    "particle": "ocm:blocks/petrifyleaves"
+  }
+}

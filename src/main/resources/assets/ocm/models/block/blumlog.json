@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/blum_log_face",
+    "up": "ocm:blocks/blum_log_face",
+    "north": "ocm:blocks/blum_log_top",
+    "east": "ocm:blocks/blum_log_top",
+    "south": "ocm:blocks/blum_log_top",
+    "west": "ocm:blocks/blum_log_top",
+    "particle": "ocm:blocks/blum_log_face"
+  }
+}

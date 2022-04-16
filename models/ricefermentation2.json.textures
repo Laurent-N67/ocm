@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "leconteneurblock": "thatch2",
+        "contenu": "topricedec"
+      },
+      "name": "default"
+    }
+  }
+}

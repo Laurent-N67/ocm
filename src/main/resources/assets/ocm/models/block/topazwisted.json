@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/topaz_wisted-side",
+    "up": "ocm:blocks/topaz_wisted-side",
+    "north": "ocm:blocks/topaz_wisted-side",
+    "east": "ocm:blocks/topaz_wisted-side",
+    "south": "ocm:blocks/topaz_wisted-side",
+    "west": "ocm:blocks/topaz_wisted-side",
+    "particle": "ocm:blocks/topaz_wisted-side"
+  }
+}

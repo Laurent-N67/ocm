@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/slate_bricks-solid",
+    "top": "ocm:blocks/slate_bricks-solid",
+    "side": "ocm:blocks/slate_bricks-solid"
+  }
+}

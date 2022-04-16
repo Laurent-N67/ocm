@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/spinel_tiles-small",
+    "up": "ocm:blocks/spinel_tiles-small",
+    "north": "ocm:blocks/spinel_tiles-small",
+    "east": "ocm:blocks/spinel_tiles-small",
+    "south": "ocm:blocks/spinel_tiles-small",
+    "west": "ocm:blocks/spinel_tiles-small",
+    "particle": "ocm:blocks/spinel_tiles-small"
+  }
+}

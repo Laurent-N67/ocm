@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "mythril_sword",
+    "customModelName": "dagueepic1:default",
+    "name": "Dague épique",
+    "specialInfo": [
+      "?**** - Arme épique"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 6.0,
+    "enchantability": 2,
+    "damageVsEntity": 17.0,
+    "usageCount": 24000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

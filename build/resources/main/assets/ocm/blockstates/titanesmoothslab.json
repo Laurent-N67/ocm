@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/titanesmoothslab"
+    },
+    "type=top": {
+      "model": "ocm:block/titanesmoothslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/titanesmoothslab_full"
+    }
+  }
+}

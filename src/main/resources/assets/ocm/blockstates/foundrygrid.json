@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/foundrygrid",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/foundrygrid"
+    },
+    "axis=z": {
+      "model": "ocm:block/foundrygrid",
+      "x": 90
+    }
+  }
+}

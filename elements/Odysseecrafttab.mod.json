@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Odyssee craft",
+    "icon": {
+      "value": "CUSTOM:SaphirGem"
+    },
+    "showSearch": true
+  }
+}

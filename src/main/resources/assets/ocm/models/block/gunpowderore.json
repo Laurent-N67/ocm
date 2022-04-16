@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/gunpowderore",
+    "up": "ocm:blocks/gunpowderore",
+    "north": "ocm:blocks/gunpowderore",
+    "east": "ocm:blocks/gunpowderore",
+    "south": "ocm:blocks/gunpowderore",
+    "west": "ocm:blocks/gunpowderore",
+    "particle": "ocm:blocks/gunpowderore"
+  }
+}

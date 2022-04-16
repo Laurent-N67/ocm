@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "ocm:magicarpetj_1"
+    },
+    "4": {
+      "item": "minecraft:soul_sand"
+    },
+    "6": {
+      "item": "ocm:puresilk"
+    },
+    "7": {
+      "item": "ocm:purplemana_gem"
+    },
+    "8": {
+      "item": "ocm:puresilk"
+    }
+  },
+  "result": {
+    "item": "ocm:magicarpetj_2",
+    "count": 2
+  }
+}

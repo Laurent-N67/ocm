@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/gold_smooth",
+    "top": "ocm:blocks/gold_smooth",
+    "side": "ocm:blocks/gold_smooth"
+  }
+}

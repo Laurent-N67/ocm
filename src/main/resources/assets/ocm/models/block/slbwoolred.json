@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/wool_colored_red",
+    "top": "ocm:blocks/wool_colored_red",
+    "side": "ocm:blocks/wool_colored_red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/dark_prismarine",
+    "up": "ocm:blocks/dark_prismarine",
+    "north": "ocm:blocks/dark_prismarine",
+    "east": "ocm:blocks/dark_prismarine",
+    "south": "ocm:blocks/dark_prismarine",
+    "west": "ocm:blocks/dark_prismarine",
+    "particle": "ocm:blocks/dark_prismarine"
+  }
+}

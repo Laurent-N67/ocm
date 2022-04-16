@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "ocm:blocks/planks_oak",
+    "top": "ocm:blocks/planks_oak"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/benchcenter",
+  "textures": {
+    "all": "ocm:blocks/planks_oak",
+    "particle": "ocm:blocks/planks_oak",
+    "0": "ocm:blocks/planks_oak"
+  }
+}

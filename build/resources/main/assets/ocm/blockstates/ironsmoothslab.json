@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/ironsmoothslab"
+    },
+    "type=top": {
+      "model": "ocm:block/ironsmoothslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/ironsmoothslab_full"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/hugebenchoakcenter"
+    },
+    "facing=east": {
+      "model": "ocm:block/hugebenchoakcenter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/hugebenchoakcenter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/hugebenchoakcenter",
+      "y": 270
+    }
+  }
+}

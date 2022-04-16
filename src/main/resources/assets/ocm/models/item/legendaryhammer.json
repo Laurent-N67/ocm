@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/legendaryhammer",
+  "textures": {
+    "1": "ocm:blocks/starcrystalblock",
+    "2": "ocm:blocks/obsidian",
+    "particle": "ocm:items/mythril_sword"
+  }
+}

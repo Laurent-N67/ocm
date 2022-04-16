@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 1200,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "item": "ocm:obsipow"
+  }
+}

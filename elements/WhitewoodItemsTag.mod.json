@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WhitewoodWood"
+      },
+      {
+        "value": "CUSTOM:WhitewoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "whitewood_log",
+    "namespace": "forge"
+  }
+}

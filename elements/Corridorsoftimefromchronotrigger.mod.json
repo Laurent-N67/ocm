@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "discchronooftime",
+    "name": "“Corridors of Time” from Chrono Trigger",
+    "description": "“Corridors of Time” from Chrono Trigger",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:corridorsoftimefromchronotrigger"
+    },
+    "specialInfo": [
+      "“Corridors of Time” from Chrono Trigger"
+    ],
+    "hasGlow": false
+  }
+}

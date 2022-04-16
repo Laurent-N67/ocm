@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/darkprismslab"
+    },
+    "type=top": {
+      "model": "ocm:block/darkprismslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/darkprismslab_full"
+    }
+  }
+}

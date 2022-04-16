@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/eventportalblock",
+    "up": "ocm:blocks/eventportalblock",
+    "north": "ocm:blocks/eventportalblock",
+    "east": "ocm:blocks/eventportalblock",
+    "south": "ocm:blocks/eventportalblock",
+    "west": "ocm:blocks/eventportalblock",
+    "particle": "ocm:blocks/eventportalblock"
+  }
+}

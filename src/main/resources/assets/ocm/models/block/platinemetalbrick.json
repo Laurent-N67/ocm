@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/platine_metalbrick",
+    "up": "ocm:blocks/platine_metalbrick",
+    "north": "ocm:blocks/platine_metalbrick",
+    "east": "ocm:blocks/platine_metalbrick",
+    "south": "ocm:blocks/platine_metalbrick",
+    "west": "ocm:blocks/platine_metalbrick",
+    "particle": "ocm:blocks/platine_metalbrick"
+  }
+}

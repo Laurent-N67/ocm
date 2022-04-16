@@ -1,0 +1,7 @@
+{
+  "parent": "ocm:custom/woddensupport",
+  "textures": {
+    "all": "ocm:blocks/planks_oak",
+    "particle": "ocm:blocks/planks_oak"
+  }
+}

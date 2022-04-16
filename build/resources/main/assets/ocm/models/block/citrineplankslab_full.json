@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ocm:blocks/citrine_oak",
+    "top": "ocm:blocks/citrine_oak",
+    "side": "ocm:blocks/citrine_oak"
+  }
+}

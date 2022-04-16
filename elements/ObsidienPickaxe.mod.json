@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidien_pickaxe",
+    "customModelName": "Normal",
+    "name": "Obsidien Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 19,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 112,
+    "damageVsEntity": 16.0,
+    "usageCount": 5595,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

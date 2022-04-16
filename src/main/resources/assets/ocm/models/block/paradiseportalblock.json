@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/paradiseportal",
+    "up": "ocm:blocks/paradiseportal",
+    "north": "ocm:blocks/paradiseportal",
+    "east": "ocm:blocks/paradiseportal",
+    "south": "ocm:blocks/paradiseportal",
+    "west": "ocm:blocks/paradiseportal",
+    "particle": "ocm:blocks/paradiseportal"
+  }
+}

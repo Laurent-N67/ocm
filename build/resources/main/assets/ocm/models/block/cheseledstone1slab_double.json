@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/blast_furnace_top",
+    "particle": "ocm:blocks/blast_furnace_top"
+  }
+}

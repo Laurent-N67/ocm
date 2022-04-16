@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/pillarpiston",
+  "textures": {
+    "all": "ocm:blocks/piston_top_normal",
+    "particle": "ocm:blocks/piston_top_normal",
+    "0": "ocm:blocks/piston_top_normal"
+  }
+}

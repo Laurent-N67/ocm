@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/hellstone",
+    "up": "ocm:blocks/hellstone",
+    "north": "ocm:blocks/hellstone",
+    "east": "ocm:blocks/hellstone",
+    "south": "ocm:blocks/hellstone",
+    "west": "ocm:blocks/hellstone",
+    "particle": "ocm:blocks/hellstone"
+  }
+}

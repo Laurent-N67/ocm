@@ -1,0 +1,12 @@
+{
+  "parent": "ocm:custom/echecgame",
+  "textures": {
+    "all": "ocm:blocks/planks_jungle",
+    "particle": "ocm:blocks/planks_jungle",
+    "0": "ocm:blocks/planks_jungle",
+    "1": "ocm:blocks/white",
+    "2": "ocm:blocks/black",
+    "3": "ocm:blocks/planks_big_oak",
+    "4": "ocm:blocks/planks_birch"
+  }
+}

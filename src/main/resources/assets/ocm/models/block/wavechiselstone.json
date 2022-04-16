@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/waverstone",
+    "up": "ocm:blocks/waverstone",
+    "north": "ocm:blocks/waverstone",
+    "east": "ocm:blocks/waverstone",
+    "south": "ocm:blocks/waverstone",
+    "west": "ocm:blocks/waverstone",
+    "particle": "ocm:blocks/waverstone"
+  }
+}

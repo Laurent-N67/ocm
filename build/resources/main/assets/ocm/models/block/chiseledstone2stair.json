@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "ocm:blocks/lodestone_top",
+    "top": "ocm:blocks/lodestone_top",
+    "side": "ocm:blocks/lodestone_top"
+  }
+}

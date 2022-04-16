@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/citrine_tiles-medium",
+    "up": "ocm:blocks/citrine_tiles-medium",
+    "north": "ocm:blocks/citrine_tiles-medium",
+    "east": "ocm:blocks/citrine_tiles-medium",
+    "south": "ocm:blocks/citrine_tiles-medium",
+    "west": "ocm:blocks/citrine_tiles-medium",
+    "particle": "ocm:blocks/citrine_tiles-medium"
+  }
+}

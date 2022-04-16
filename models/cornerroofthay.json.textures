@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "hay_block_side",
+        "missing": "planks_oak"
+      },
+      "name": "default"
+    }
+  }
+}

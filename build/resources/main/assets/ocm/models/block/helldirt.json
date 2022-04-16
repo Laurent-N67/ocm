@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/helldirt",
+    "up": "ocm:blocks/helldirt",
+    "north": "ocm:blocks/helldirt",
+    "east": "ocm:blocks/helldirt",
+    "south": "ocm:blocks/helldirt",
+    "west": "ocm:blocks/helldirt",
+    "particle": "ocm:blocks/helldirt"
+  }
+}

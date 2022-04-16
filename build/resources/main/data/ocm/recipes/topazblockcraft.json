@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:topaz_gem"
+    },
+    "1": {
+      "item": "ocm:topaz_gem"
+    },
+    "2": {
+      "item": "ocm:topaz_gem"
+    },
+    "3": {
+      "item": "ocm:topaz_gem"
+    },
+    "4": {
+      "item": "ocm:topaz_gem"
+    },
+    "5": {
+      "item": "ocm:topaz_gem"
+    },
+    "6": {
+      "item": "ocm:topaz_gem"
+    },
+    "7": {
+      "item": "ocm:topaz_gem"
+    },
+    "8": {
+      "item": "ocm:topaz_gem"
+    }
+  },
+  "result": {
+    "item": "ocm:topazblock",
+    "count": 1
+  }
+}

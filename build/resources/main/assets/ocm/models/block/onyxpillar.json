@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/onyx_pillar-top",
+    "up": "ocm:blocks/onyx_pillar-top",
+    "north": "ocm:blocks/onyx_pillar-side",
+    "east": "ocm:blocks/onyx_pillar-side",
+    "south": "ocm:blocks/onyx_pillar-side",
+    "west": "ocm:blocks/onyx_pillar-side",
+    "particle": "ocm:blocks/onyx_pillar-top"
+  }
+}

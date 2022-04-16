@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/winestockageblock3",
+  "textures": {
+    "all": "ocm:blocks/piston_top_normal",
+    "particle": "ocm:blocks/piston_top_normal",
+    "0": "ocm:blocks/iron_block",
+    "1": "ocm:blocks/piston_top_normal",
+    "2": "ocm:blocks/txtvaseblue"
+  }
+}

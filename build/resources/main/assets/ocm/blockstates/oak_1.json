@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/oak_1"
+    },
+    "facing=east": {
+      "model": "ocm:block/oak_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/oak_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/oak_1",
+      "y": 270
+    }
+  }
+}

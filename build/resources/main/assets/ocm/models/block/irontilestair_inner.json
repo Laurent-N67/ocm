@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/iron_tile",
+    "top": "ocm:blocks/iron_tile",
+    "side": "ocm:blocks/iron_tile"
+  }
+}

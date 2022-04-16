@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "ocm:blocks/emerald_oak",
+    "particle": "ocm:blocks/emerald_oak"
+  }
+}

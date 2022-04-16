@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "Stone_Statue",
+        "1": "stone_andesite_smooth"
+      },
+      "name": "default"
+    }
+  }
+}

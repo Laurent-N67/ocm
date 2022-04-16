@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "topricedec",
+        "2": "thatch"
+      },
+      "name": "default"
+    }
+  }
+}

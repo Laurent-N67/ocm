@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/dalleupdarkoak"
+    },
+    "facing=east": {
+      "model": "ocm:block/dalleupdarkoak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/dalleupdarkoak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/dalleupdarkoak",
+      "y": 270
+    }
+  }
+}

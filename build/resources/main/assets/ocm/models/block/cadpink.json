@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/candlepink",
+  "textures": {
+    "all": "ocm:blocks/cadpurpl",
+    "particle": "ocm:blocks/cadleblock",
+    "stub": "ocm:blocks/candlestub",
+    "flame": "ocm:blocks/flame"
+  }
+}

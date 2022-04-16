@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/platine_metalbrick",
+    "top": "ocm:blocks/platine_metalbrick",
+    "side": "ocm:blocks/platine_metalbrick"
+  }
+}

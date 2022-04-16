@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/collombageframe",
+    "up": "ocm:blocks/collombageframe",
+    "north": "ocm:blocks/collombageframe",
+    "east": "ocm:blocks/collombageframe",
+    "south": "ocm:blocks/collombageframe",
+    "west": "ocm:blocks/collombageframe",
+    "particle": "ocm:blocks/collombageframe"
+  }
+}

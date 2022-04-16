@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/aventurine_tiles-medium",
+    "up": "ocm:blocks/aventurine_tiles-medium",
+    "north": "ocm:blocks/aventurine_tiles-medium",
+    "east": "ocm:blocks/aventurine_tiles-medium",
+    "south": "ocm:blocks/aventurine_tiles-medium",
+    "west": "ocm:blocks/aventurine_tiles-medium",
+    "particle": "ocm:blocks/aventurine_tiles-medium"
+  }
+}

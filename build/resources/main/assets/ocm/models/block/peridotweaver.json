@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/peridot_weaver",
+    "up": "ocm:blocks/peridot_weaver",
+    "north": "ocm:blocks/peridot_weaver",
+    "east": "ocm:blocks/peridot_weaver",
+    "south": "ocm:blocks/peridot_weaver",
+    "west": "ocm:blocks/peridot_weaver",
+    "particle": "ocm:blocks/peridot_weaver"
+  }
+}

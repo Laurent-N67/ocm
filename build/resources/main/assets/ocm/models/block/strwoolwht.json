@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "ocm:blocks/wool_colored_white",
+    "top": "ocm:blocks/wool_colored_white",
+    "side": "ocm:blocks/wool_colored_white"
+  }
+}

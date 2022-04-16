@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/mithrilingotblockslab"
+    },
+    "type=top": {
+      "model": "ocm:block/mithrilingotblockslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/mithrilingotblockslab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/whitewood_log_top",
+    "up": "ocm:blocks/whitewood_log_top",
+    "north": "ocm:blocks/whitewood_log_side",
+    "east": "ocm:blocks/whitewood_log_side",
+    "south": "ocm:blocks/whitewood_log_side",
+    "west": "ocm:blocks/whitewood_log_side",
+    "particle": "ocm:blocks/whitewood_log_top"
+  }
+}

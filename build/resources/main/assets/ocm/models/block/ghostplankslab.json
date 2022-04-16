@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/ghost_oak",
+    "top": "ocm:blocks/ghost_oak",
+    "side": "ocm:blocks/ghost_oak"
+  }
+}

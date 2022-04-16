@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/lamp4",
+    "up": "ocm:blocks/lamp4",
+    "north": "ocm:blocks/lamp4",
+    "east": "ocm:blocks/lamp4",
+    "south": "ocm:blocks/lamp4",
+    "west": "ocm:blocks/lamp4",
+    "particle": "ocm:blocks/lamp4"
+  }
+}

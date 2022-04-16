@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/planks_birch",
+    "up": "ocm:blocks/planks_birch",
+    "north": "ocm:blocks/planks_birch",
+    "east": "ocm:blocks/planks_birch",
+    "south": "ocm:blocks/planks_birch",
+    "west": "ocm:blocks/planks_birch",
+    "particle": "ocm:blocks/planks_birch"
+  }
+}

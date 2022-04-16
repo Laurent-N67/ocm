@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/bambosb"
+    },
+    "type=top": {
+      "model": "ocm:block/bambosb_top"
+    },
+    "type=double": {
+      "model": "ocm:block/bambosb_full"
+    }
+  }
+}

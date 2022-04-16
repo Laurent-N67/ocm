@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/marble_weaver",
+    "up": "ocm:blocks/marble_weaver",
+    "north": "ocm:blocks/marble_weaver",
+    "east": "ocm:blocks/marble_weaver",
+    "south": "ocm:blocks/marble_weaver",
+    "west": "ocm:blocks/marble_weaver",
+    "particle": "ocm:blocks/marble_weaver"
+  }
+}

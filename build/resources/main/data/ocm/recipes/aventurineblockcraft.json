@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:aventurine"
+    },
+    "1": {
+      "item": "ocm:aventurine"
+    },
+    "2": {
+      "item": "ocm:aventurine"
+    },
+    "3": {
+      "item": "ocm:aventurine"
+    },
+    "4": {
+      "item": "ocm:aventurine"
+    },
+    "5": {
+      "item": "ocm:aventurine"
+    },
+    "6": {
+      "item": "ocm:aventurine"
+    },
+    "7": {
+      "item": "ocm:aventurine"
+    },
+    "8": {
+      "item": "ocm:aventurine"
+    }
+  },
+  "result": {
+    "item": "ocm:aventurineoreblock",
+    "count": 1
+  }
+}

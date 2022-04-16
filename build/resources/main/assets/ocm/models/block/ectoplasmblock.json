@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/ectoplasmblock",
+    "up": "ocm:blocks/ectoplasmblock",
+    "north": "ocm:blocks/ectoplasmblock",
+    "east": "ocm:blocks/ectoplasmblock",
+    "south": "ocm:blocks/ectoplasmblock",
+    "west": "ocm:blocks/ectoplasmblock",
+    "particle": "ocm:blocks/ectoplasmblock"
+  }
+}

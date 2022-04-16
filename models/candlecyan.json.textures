@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "all": "cadcyan",
+        "stub": "candlestub",
+        "flame": "flame"
+      },
+      "name": "default"
+    }
+  }
+}

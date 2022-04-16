@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:bosskeypar_3"
+    },
+    "1": {
+      "item": "ocm:bosskeypar_2"
+    },
+    "2": {
+      "item": "ocm:bosskeypar_1"
+    }
+  },
+  "result": {
+    "item": "ocm:bosskey",
+    "count": 1
+  }
+}

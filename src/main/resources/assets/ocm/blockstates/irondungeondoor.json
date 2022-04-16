@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/irondungeondoor"
+    },
+    "facing=east": {
+      "model": "ocm:block/irondungeondoor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/irondungeondoor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/irondungeondoor",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "ocm:block/irondungeondoor",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "ocm:block/irondungeondoor",
+      "x": 90
+    }
+  }
+}

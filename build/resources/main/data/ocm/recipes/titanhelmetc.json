@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:titane_ingot"
+    },
+    "1": {
+      "item": "ocm:titane_ingot"
+    },
+    "2": {
+      "item": "ocm:titane_ingot"
+    },
+    "3": {
+      "item": "ocm:titane_ingot"
+    },
+    "5": {
+      "item": "ocm:titane_ingot"
+    }
+  },
+  "result": {
+    "item": "ocm:titane_armor_helmet",
+    "count": 1
+  }
+}

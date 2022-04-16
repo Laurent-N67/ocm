@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/obsisb"
+    },
+    "type=top": {
+      "model": "ocm:block/obsisb_top"
+    },
+    "type=double": {
+      "model": "ocm:block/obsisb_full"
+    }
+  }
+}

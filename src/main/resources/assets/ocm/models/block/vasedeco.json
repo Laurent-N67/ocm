@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/vase",
+  "textures": {
+    "all": "ocm:blocks/txtrvase",
+    "particle": "ocm:blocks/txtrvase",
+    "0": "ocm:blocks/txtrvase",
+    "1": "ocm:blocks/planks_oak"
+  }
+}

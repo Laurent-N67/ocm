@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ocm:block/barreloak",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ocm:block/barreloak"
+    },
+    "axis=z": {
+      "model": "ocm:block/barreloak",
+      "x": 90
+    }
+  }
+}

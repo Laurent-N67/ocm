@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "meattile",
+        "1": "meatbottom",
+        "2": "anvil_base"
+      },
+      "name": "default"
+    }
+  }
+}

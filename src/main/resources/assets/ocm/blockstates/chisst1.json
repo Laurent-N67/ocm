@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "ocm:block/chisst1"
+    },
+    "facing=north": {
+      "model": "ocm:block/chisst1"
+    },
+    "facing=east": {
+      "model": "ocm:block/chisst1",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "ocm:block/chisst1",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "ocm:block/chisst1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "ocm:block/chisst1",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

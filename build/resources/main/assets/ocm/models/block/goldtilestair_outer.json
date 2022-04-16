@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/gold_tile",
+    "top": "ocm:blocks/gold_tile",
+    "side": "ocm:blocks/gold_tile"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/spinel_weaver",
+    "up": "ocm:blocks/spinel_weaver",
+    "north": "ocm:blocks/spinel_weaver",
+    "east": "ocm:blocks/spinel_weaver",
+    "south": "ocm:blocks/spinel_weaver",
+    "west": "ocm:blocks/spinel_weaver",
+    "particle": "ocm:blocks/spinel_weaver"
+  }
+}

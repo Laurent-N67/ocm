@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/rhay"
+    },
+    "facing=east": {
+      "model": "ocm:block/rhay",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/rhay",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/rhay",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/obsidienspear",
+  "textures": {
+    "0": "ocm:blocks/obsidian",
+    "1": "ocm:blocks/anvil_base",
+    "particle": "ocm:items/metalstick"
+  }
+}

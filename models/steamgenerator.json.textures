@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "anvil_base",
+        "1": "stonescrew",
+        "2": "steamgeneratorface",
+        "3": "steamgeneratorblock",
+        "4": "steamtop"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "healtlybeer",
+    "customModelName": "Normal",
+    "name": "\"healthy\" Beer",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Bière faite dans les hôpitaux pour soigner les malades"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "HealthybeerQuandLaNourritureEstMangee"
+    }
+  }
+}

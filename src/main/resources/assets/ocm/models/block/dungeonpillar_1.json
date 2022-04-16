@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/greekpillardown",
+    "up": "ocm:blocks/greekpillardown",
+    "north": "ocm:blocks/greekpillardown",
+    "east": "ocm:blocks/greekpillardown",
+    "south": "ocm:blocks/greekpillardown",
+    "west": "ocm:blocks/greekpillardown",
+    "particle": "ocm:blocks/greekpillardown"
+  }
+}

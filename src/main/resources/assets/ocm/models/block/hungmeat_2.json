@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/meattile2",
+  "textures": {
+    "all": "ocm:blocks/meattile1",
+    "particle": "ocm:blocks/meattile1",
+    "0": "ocm:blocks/meattile1",
+    "1": "ocm:blocks/meatbottom",
+    "2": "ocm:blocks/anvil_base"
+  }
+}

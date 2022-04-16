@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/end_oak",
+    "up": "ocm:blocks/end_oak",
+    "north": "ocm:blocks/end_oak",
+    "east": "ocm:blocks/end_oak",
+    "south": "ocm:blocks/end_oak",
+    "west": "ocm:blocks/end_oak",
+    "particle": "ocm:blocks/end_oak"
+  }
+}

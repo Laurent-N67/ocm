@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/slotmachinee"
+    },
+    "facing=east": {
+      "model": "ocm:block/slotmachinee",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/slotmachinee",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/slotmachinee",
+      "y": 270
+    }
+  }
+}

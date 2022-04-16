@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jar",
+        "1": "dirt",
+        "missing": "dirt"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/marble_panel",
+    "up": "ocm:blocks/marble_panel",
+    "north": "ocm:blocks/marble_panel",
+    "east": "ocm:blocks/marble_panel",
+    "south": "ocm:blocks/marble_panel",
+    "west": "ocm:blocks/marble_panel",
+    "particle": "ocm:blocks/marble_panel"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/ritualwhitestone",
+  "textures": {
+    "all": "ocm:blocks/citrinwhitestone",
+    "particle": "ocm:blocks/citrinwhitestone",
+    "0": "ocm:blocks/largest",
+    "1": "ocm:blocks/citrinwhitestone"
+  }
+}

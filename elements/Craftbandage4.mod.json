@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Darksilk"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "CUSTOM:Darksilk"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "CUSTOM:Darksilk"
+      },
+      {
+        "value": "Items.STRING"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bandageperfect"
+    },
+    "name": "craftbandage_4",
+    "namespace": "mod"
+  }
+}

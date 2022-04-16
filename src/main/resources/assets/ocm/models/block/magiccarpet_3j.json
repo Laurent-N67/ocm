@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/magiccarpet1",
+  "textures": {
+    "all": "ocm:blocks/magicblock",
+    "particle": "ocm:blocks/magicblock",
+    "1": "ocm:blocks/carpetmagical"
+  }
+}

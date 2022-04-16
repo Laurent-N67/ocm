@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "brickplate",
+        "2": "lanternblock",
+        "3": "txtvasered",
+        "4": "titane_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

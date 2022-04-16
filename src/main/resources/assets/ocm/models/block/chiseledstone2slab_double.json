@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/lodestone_top",
+    "particle": "ocm:blocks/lodestone_top"
+  }
+}

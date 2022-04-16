@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/bluegridglass",
+    "up": "ocm:blocks/bluegridglass",
+    "north": "ocm:blocks/bluegridglass",
+    "east": "ocm:blocks/bluegridglass",
+    "south": "ocm:blocks/bluegridglass",
+    "west": "ocm:blocks/bluegridglass",
+    "particle": "ocm:blocks/bluegridglass"
+  }
+}

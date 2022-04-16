@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/planks_oak",
+    "up": "ocm:blocks/planks_oak",
+    "north": "ocm:blocks/bookshelfwhite",
+    "east": "ocm:blocks/bookshelfwhite",
+    "south": "ocm:blocks/bookshelfwhite",
+    "west": "ocm:blocks/bookshelfwhite",
+    "particle": "ocm:blocks/planks_oak"
+  }
+}

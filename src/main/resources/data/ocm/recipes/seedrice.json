@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:rice"
+    }
+  ],
+  "result": {
+    "item": "ocm:rice_1",
+    "count": 1
+  }
+}

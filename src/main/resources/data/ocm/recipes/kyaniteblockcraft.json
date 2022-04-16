@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:kyanite"
+    },
+    "1": {
+      "item": "ocm:kyanite"
+    },
+    "2": {
+      "item": "ocm:kyanite"
+    },
+    "3": {
+      "item": "ocm:kyanite"
+    },
+    "4": {
+      "item": "ocm:kyanite"
+    },
+    "5": {
+      "item": "ocm:kyanite"
+    },
+    "6": {
+      "item": "ocm:kyanite"
+    },
+    "7": {
+      "item": "ocm:kyanite"
+    },
+    "8": {
+      "item": "ocm:kyanite"
+    }
+  },
+  "result": {
+    "item": "ocm:kyaniteoreblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/crosswood",
+    "up": "ocm:blocks/crosswood",
+    "north": "ocm:blocks/crosswood",
+    "east": "ocm:blocks/crosswood",
+    "south": "ocm:blocks/crosswood",
+    "west": "ocm:blocks/crosswood",
+    "particle": "ocm:blocks/crosswood"
+  }
+}

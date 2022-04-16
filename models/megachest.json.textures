@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chestpartbig",
+        "1": "chestpartsidebig",
+        "2": "shulker_top_yellow"
+      },
+      "name": "default"
+    }
+  }
+}

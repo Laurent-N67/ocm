@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/iron_tile",
+    "up": "ocm:blocks/iron_tile",
+    "north": "ocm:blocks/iron_tile",
+    "east": "ocm:blocks/iron_tile",
+    "south": "ocm:blocks/iron_tile",
+    "west": "ocm:blocks/iron_tile",
+    "particle": "ocm:blocks/iron_tile"
+  }
+}

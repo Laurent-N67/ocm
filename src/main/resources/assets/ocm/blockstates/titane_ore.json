@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ocm:block/titane_ore"
+    }
+  }
+}

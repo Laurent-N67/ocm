@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_jungle",
+        "1": "white",
+        "2": "black",
+        "3": "planks_big_oak",
+        "4": "planks_birch"
+      },
+      "name": "default"
+    }
+  }
+}

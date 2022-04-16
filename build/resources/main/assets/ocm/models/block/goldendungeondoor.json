@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/goldendungeondoor",
+  "textures": {
+    "all": "ocm:blocks/goldendoor",
+    "particle": "ocm:blocks/goldendoor",
+    "0": "ocm:blocks/goldendoor"
+  }
+}

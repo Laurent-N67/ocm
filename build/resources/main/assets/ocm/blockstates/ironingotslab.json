@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/ironingotslab"
+    },
+    "type=top": {
+      "model": "ocm:block/ironingotslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/ironingotslab_full"
+    }
+  }
+}

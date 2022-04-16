@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/polishedglowstone",
+    "up": "ocm:blocks/polishedglowstone",
+    "north": "ocm:blocks/polishedglowstone",
+    "east": "ocm:blocks/polishedglowstone",
+    "south": "ocm:blocks/polishedglowstone",
+    "west": "ocm:blocks/polishedglowstone",
+    "particle": "ocm:blocks/polishedglowstone"
+  }
+}

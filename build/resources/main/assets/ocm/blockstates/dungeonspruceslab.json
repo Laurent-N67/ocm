@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/dungeonspruceslab"
+    },
+    "type=top": {
+      "model": "ocm:block/dungeonspruceslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/dungeonspruceslab_full"
+    }
+  }
+}

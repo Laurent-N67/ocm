@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/platinesmoothslab"
+    },
+    "type=top": {
+      "model": "ocm:block/platinesmoothslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/platinesmoothslab_full"
+    }
+  }
+}

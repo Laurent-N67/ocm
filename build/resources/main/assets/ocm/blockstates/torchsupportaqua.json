@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/torchsupportaqua"
+    },
+    "facing=east": {
+      "model": "ocm:block/torchsupportaqua",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/torchsupportaqua",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/torchsupportaqua",
+      "y": 270
+    }
+  }
+}

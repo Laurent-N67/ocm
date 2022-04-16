@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/japanportalblock",
+    "up": "ocm:blocks/japanportalblock",
+    "north": "ocm:blocks/japanportalblock",
+    "east": "ocm:blocks/japanportalblock",
+    "south": "ocm:blocks/japanportalblock",
+    "west": "ocm:blocks/japanportalblock",
+    "particle": "ocm:blocks/japanportalblock"
+  }
+}

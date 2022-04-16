@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/japanwall",
+  "textures": {
+    "all": "ocm:blocks/japanwall",
+    "particle": "ocm:blocks/japanwall",
+    "0": "ocm:blocks/japanwall"
+  }
+}

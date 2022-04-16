@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/titane_tile",
+    "top": "ocm:blocks/titane_tile",
+    "side": "ocm:blocks/titane_tile"
+  }
+}

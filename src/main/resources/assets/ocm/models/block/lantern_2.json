@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/lantern2",
+    "up": "ocm:blocks/lantern2",
+    "north": "ocm:blocks/lantern2",
+    "east": "ocm:blocks/lantern2",
+    "south": "ocm:blocks/lantern2",
+    "west": "ocm:blocks/lantern2",
+    "particle": "ocm:blocks/lantern2"
+  }
+}

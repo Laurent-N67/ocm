@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "gh4.png",
+          "use1Xscale": true,
+          "name": "gh4.png",
+          "x": 61,
+          "y": 16
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "onClick": {
+            "name": "Tutot3"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "<",
+          "x": 76,
+          "y": 23
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ">",
+          "onClick": {
+            "name": "Tutot5"
+          },
+          "width": 30,
+          "height": 20,
+          "name": ">",
+          "x": 319,
+          "y": 23
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

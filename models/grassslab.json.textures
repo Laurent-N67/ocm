@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dirt",
+        "1": "grasssid",
+        "2": "grassto"
+      },
+      "name": "default"
+    }
+  }
+}

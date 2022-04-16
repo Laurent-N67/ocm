@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/hellcobble",
+    "up": "ocm:blocks/hellcobble",
+    "north": "ocm:blocks/hellcobble",
+    "east": "ocm:blocks/hellcobble",
+    "south": "ocm:blocks/hellcobble",
+    "west": "ocm:blocks/hellcobble",
+    "particle": "ocm:blocks/hellcobble"
+  }
+}

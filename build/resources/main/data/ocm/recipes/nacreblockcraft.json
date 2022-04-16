@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:nacre"
+    },
+    "1": {
+      "item": "ocm:nacre"
+    },
+    "2": {
+      "item": "ocm:nacre"
+    },
+    "3": {
+      "item": "ocm:nacre"
+    },
+    "4": {
+      "item": "ocm:nacre"
+    },
+    "5": {
+      "item": "ocm:nacre"
+    },
+    "6": {
+      "item": "ocm:nacre"
+    },
+    "7": {
+      "item": "ocm:nacre"
+    },
+    "8": {
+      "item": "ocm:nacre"
+    }
+  },
+  "result": {
+    "item": "ocm:nacreoreblock",
+    "count": 1
+  }
+}

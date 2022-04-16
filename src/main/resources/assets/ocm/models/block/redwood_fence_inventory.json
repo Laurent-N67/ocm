@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "ocm:blocks/redwood_planks",
+    "particle": "ocm:blocks/redwood_planks"
+  }
+}

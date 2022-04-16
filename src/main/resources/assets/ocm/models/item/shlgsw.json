@@ -1,0 +1,11 @@
+{
+  "parent": "ocm:custom/shepherdssword",
+  "textures": {
+    "0": "ocm:blocks/planks_big_oak",
+    "1": "ocm:blocks/piston_bottom",
+    "2": "ocm:blocks/anvil_base",
+    "3": "ocm:blocks/silver_ore_block",
+    "4": "ocm:blocks/saphir_ore_block",
+    "particle": "ocm:items/saphir_sword"
+  }
+}

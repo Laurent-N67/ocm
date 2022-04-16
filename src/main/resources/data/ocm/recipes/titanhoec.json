@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:titane_ingot"
+    },
+    "1": {
+      "item": "ocm:titane_ingot"
+    },
+    "3": {
+      "item": "ocm:platiniumstick"
+    },
+    "5": {
+      "item": "ocm:platiniumstick"
+    }
+  },
+  "result": {
+    "item": "ocm:titane_hoe",
+    "count": 1
+  }
+}

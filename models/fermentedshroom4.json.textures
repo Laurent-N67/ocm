@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "fermentedshroom",
+        "2": "thatch1"
+      },
+      "name": "default"
+    }
+  }
+}

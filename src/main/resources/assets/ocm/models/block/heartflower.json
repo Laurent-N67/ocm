@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/heartflower",
+    "particle": "ocm:blocks/heartflower"
+  }
+}

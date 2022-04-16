@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:cocoonrare"
+    },
+    "1": {
+      "item": "ocm:cocoonrare"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "ocm:cocoonrare"
+    },
+    "4": {
+      "item": "ocm:cocoonrare"
+    },
+    "5": {
+      "item": "ocm:cocoonrare"
+    },
+    "6": {
+      "item": "ocm:cocoonrare"
+    },
+    "7": {
+      "item": "ocm:cocoonrare"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ocm:raresilk",
+    "count": 1
+  }
+}

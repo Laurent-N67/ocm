@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/incornerhay",
+  "textures": {
+    "all": "ocm:blocks/hay_block_side",
+    "particle": "ocm:blocks/hay_block_side",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/hay_block_side"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/chainoffset"
+    },
+    "facing=east": {
+      "model": "ocm:block/chainoffset",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/chainoffset",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/chainoffset",
+      "y": 270
+    }
+  }
+}

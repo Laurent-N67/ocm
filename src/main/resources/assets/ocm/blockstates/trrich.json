@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/trrich"
+    },
+    "facing=east": {
+      "model": "ocm:block/trrich",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/trrich",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/trrich",
+      "y": 270
+    }
+  }
+}

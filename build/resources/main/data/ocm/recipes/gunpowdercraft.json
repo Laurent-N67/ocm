@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:sulfur"
+    },
+    "1": {
+      "item": "minecraft:coal"
+    },
+    "2": {
+      "item": "ocm:sulfur"
+    },
+    "3": {
+      "item": "minecraft:coal"
+    },
+    "4": {
+      "item": "ocm:sulfur"
+    },
+    "5": {
+      "item": "minecraft:coal"
+    },
+    "6": {
+      "item": "ocm:sulfur"
+    },
+    "7": {
+      "item": "minecraft:coal"
+    },
+    "8": {
+      "item": "ocm:sulfur"
+    }
+  },
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 3
+  }
+}

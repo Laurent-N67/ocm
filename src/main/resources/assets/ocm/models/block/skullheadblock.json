@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/skull_back",
+    "up": "ocm:blocks/skull_back",
+    "north": "ocm:blocks/skull_front_off",
+    "east": "ocm:blocks/skull_back",
+    "south": "ocm:blocks/skull_back",
+    "west": "ocm:blocks/skull_back",
+    "particle": "ocm:blocks/skull_back"
+  }
+}

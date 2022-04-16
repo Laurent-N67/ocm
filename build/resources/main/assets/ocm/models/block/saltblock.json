@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/saltblock",
+    "up": "ocm:blocks/saltblock",
+    "north": "ocm:blocks/saltblock",
+    "east": "ocm:blocks/saltblock",
+    "south": "ocm:blocks/saltblock",
+    "west": "ocm:blocks/saltblock",
+    "particle": "ocm:blocks/saltblock"
+  }
+}

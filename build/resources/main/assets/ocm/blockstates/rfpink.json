@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/rfpink"
+    },
+    "facing=east": {
+      "model": "ocm:block/rfpink",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/rfpink",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/rfpink",
+      "y": 270
+    }
+  }
+}

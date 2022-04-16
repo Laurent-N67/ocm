@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/ruby_panel",
+    "up": "ocm:blocks/ruby_panel",
+    "north": "ocm:blocks/ruby_panel",
+    "east": "ocm:blocks/ruby_panel",
+    "south": "ocm:blocks/ruby_panel",
+    "west": "ocm:blocks/ruby_panel",
+    "particle": "ocm:blocks/ruby_panel"
+  }
+}

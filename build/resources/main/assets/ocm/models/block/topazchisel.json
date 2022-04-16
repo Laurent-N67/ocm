@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/topaz_road",
+    "up": "ocm:blocks/topaz_road",
+    "north": "ocm:blocks/topaz_road",
+    "east": "ocm:blocks/topaz_road",
+    "south": "ocm:blocks/topaz_road",
+    "west": "ocm:blocks/topaz_road",
+    "particle": "ocm:blocks/topaz_road"
+  }
+}

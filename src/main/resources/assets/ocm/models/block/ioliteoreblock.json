@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/iolite_panel",
+    "up": "ocm:blocks/iolite_panel",
+    "north": "ocm:blocks/iolite_panel",
+    "east": "ocm:blocks/iolite_panel",
+    "south": "ocm:blocks/iolite_panel",
+    "west": "ocm:blocks/iolite_panel",
+    "particle": "ocm:blocks/iolite_panel"
+  }
+}

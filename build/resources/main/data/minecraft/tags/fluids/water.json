@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ocm:acid",
+    "ocm:acid_flowing",
+    "ocm:fairyfluid",
+    "ocm:fairyfluid_flowing",
+    "ocm:oil",
+    "ocm:oil_flowing"
+  ]
+}

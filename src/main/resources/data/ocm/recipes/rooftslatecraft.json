@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "ocm:tuileard"
+    },
+    "4": {
+      "item": "ocm:tuileard"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "6": {
+      "item": "ocm:tuileard"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "ocm:rslate",
+    "count": 10
+  }
+}

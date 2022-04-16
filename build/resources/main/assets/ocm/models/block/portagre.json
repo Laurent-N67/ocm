@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/portalgreen",
+    "up": "ocm:blocks/portalgreen",
+    "north": "ocm:blocks/portalgreen",
+    "east": "ocm:blocks/portalgreen",
+    "south": "ocm:blocks/portalgreen",
+    "west": "ocm:blocks/portalgreen",
+    "particle": "ocm:blocks/portalgreen"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/fermentationcrate",
+  "textures": {
+    "all": "ocm:blocks/thatch",
+    "particle": "ocm:blocks/thatch",
+    "0": "ocm:blocks/thatch",
+    "missing": "ocm:blocks/"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/coockinground",
+    "up": "ocm:blocks/coockinground",
+    "north": "ocm:blocks/coockinground",
+    "east": "ocm:blocks/coockinground",
+    "south": "ocm:blocks/coockinground",
+    "west": "ocm:blocks/coockinground",
+    "particle": "ocm:blocks/coockinground"
+  }
+}

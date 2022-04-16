@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/saphir_weaver",
+    "up": "ocm:blocks/saphir_weaver",
+    "north": "ocm:blocks/saphir_weaver",
+    "east": "ocm:blocks/saphir_weaver",
+    "south": "ocm:blocks/saphir_weaver",
+    "west": "ocm:blocks/saphir_weaver",
+    "particle": "ocm:blocks/saphir_weaver"
+  }
+}

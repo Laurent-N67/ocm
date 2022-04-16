@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/sandsb"
+    },
+    "type=top": {
+      "model": "ocm:block/sandsb_top"
+    },
+    "type=double": {
+      "model": "ocm:block/sandsb_full"
+    }
+  }
+}

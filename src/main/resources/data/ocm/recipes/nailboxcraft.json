@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:stackofnail"
+    },
+    "1": {
+      "item": "ocm:stackofnail"
+    },
+    "2": {
+      "item": "ocm:stackofnail"
+    },
+    "3": {
+      "item": "ocm:stackofnail"
+    },
+    "4": {
+      "item": "ocm:stackofnail"
+    },
+    "5": {
+      "item": "ocm:stackofnail"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "ocm:ironframe"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "ocm:nailbox",
+    "count": 1
+  }
+}

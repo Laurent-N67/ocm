@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "salamanderstaff",
+    "customModelName": "Normal",
+    "name": "Salamander staff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Dmana"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": true,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 15.0,
+    "bulletPower": 1.3,
+    "bulletDamage": 15.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:SaphirGem"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "SalamanderstaffLorsqueLeProjectileToucheUnBloc"
+    },
+    "onBulletHitsPlayer": {
+      "name": "SalamanderstaffLorsqueLeProjectileToucheUnBloc"
+    },
+    "onBulletHitsEntity": {
+      "name": "SalamanderstaffLorsqueLeProjectileToucheUnBloc"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/sheperdinblock"
+    },
+    "facing=east": {
+      "model": "ocm:block/sheperdinblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/sheperdinblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/sheperdinblock",
+      "y": 270
+    }
+  }
+}

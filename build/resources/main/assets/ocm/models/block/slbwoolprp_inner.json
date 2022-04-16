@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/wool_colored_purple",
+    "top": "ocm:blocks/wool_colored_purple",
+    "side": "ocm:blocks/wool_colored_purple"
+  }
+}

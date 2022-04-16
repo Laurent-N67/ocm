@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/ropeoffset",
+  "textures": {
+    "all": "ocm:blocks/rope",
+    "particle": "ocm:blocks/rope",
+    "0": "ocm:blocks/rope"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "largest",
+        "1": "citrinwhitestone"
+      },
+      "name": "default"
+    }
+  }
+}

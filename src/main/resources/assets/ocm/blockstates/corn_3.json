@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "ocm:block/corn_3"
+    },
+    "half=lower": {
+      "model": "ocm:block/corn_3_bottom"
+    }
+  }
+}

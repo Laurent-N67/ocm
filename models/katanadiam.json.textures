@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "garde": "citrine_ore_block",
+        "manche*": "wooledpart",
+        "lame": "diamond_block"
+      },
+      "name": "default"
+    }
+  }
+}

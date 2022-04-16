@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/ironcraftingtable_2",
+    "up": "ocm:blocks/ironcraftingtable_2",
+    "north": "ocm:blocks/ironcraftingtable",
+    "east": "ocm:blocks/ironcraftingtable",
+    "south": "ocm:blocks/ironcraftingtable",
+    "west": "ocm:blocks/ironcraftingtable",
+    "particle": "ocm:blocks/ironcraftingtable_2"
+  }
+}

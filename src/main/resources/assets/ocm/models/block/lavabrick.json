@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/lavabrick",
+    "up": "ocm:blocks/lavabrick",
+    "north": "ocm:blocks/lavabrick",
+    "east": "ocm:blocks/lavabrick",
+    "south": "ocm:blocks/lavabrick",
+    "west": "ocm:blocks/lavabrick",
+    "particle": "ocm:blocks/lavabrick"
+  }
+}

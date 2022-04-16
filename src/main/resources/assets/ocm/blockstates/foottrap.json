@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/foottrap"
+    },
+    "facing=east": {
+      "model": "ocm:block/foottrap",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/foottrap",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/foottrap",
+      "y": 270
+    }
+  }
+}

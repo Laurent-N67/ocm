@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/self6",
+  "textures": {
+    "all": "ocm:blocks/barrel_top",
+    "particle": "ocm:blocks/barrel_top",
+    "2": "ocm:blocks/ruby_ore",
+    "3": "ocm:blocks/saphir_ore",
+    "4": "ocm:blocks/barrel_top"
+  }
+}

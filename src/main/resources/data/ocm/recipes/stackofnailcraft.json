@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:nail"
+    },
+    "1": {
+      "item": "ocm:nail"
+    },
+    "2": {
+      "item": "ocm:nail"
+    },
+    "3": {
+      "item": "ocm:nail"
+    },
+    "4": {
+      "item": "ocm:nail"
+    },
+    "5": {
+      "item": "ocm:nail"
+    },
+    "6": {
+      "item": "ocm:nail"
+    },
+    "7": {
+      "item": "ocm:nail"
+    },
+    "8": {
+      "item": "ocm:nail"
+    }
+  },
+  "result": {
+    "item": "ocm:stackofnail",
+    "count": 1
+  }
+}

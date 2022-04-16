@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/nacre_wisted-side",
+    "up": "ocm:blocks/nacre_wisted-side",
+    "north": "ocm:blocks/nacre_wisted-side",
+    "east": "ocm:blocks/nacre_wisted-side",
+    "south": "ocm:blocks/nacre_wisted-side",
+    "west": "ocm:blocks/nacre_wisted-side",
+    "particle": "ocm:blocks/nacre_wisted-side"
+  }
+}

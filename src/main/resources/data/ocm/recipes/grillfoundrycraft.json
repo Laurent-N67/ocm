@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:mithrilstick"
+    },
+    "1": {
+      "item": "ocm:mithrilplate"
+    },
+    "2": {
+      "item": "ocm:mithrilstick"
+    },
+    "3": {
+      "item": "ocm:mithrilplate"
+    },
+    "5": {
+      "item": "ocm:mithrilplate"
+    },
+    "6": {
+      "item": "ocm:mithrilstick"
+    },
+    "7": {
+      "item": "ocm:mithrilplate"
+    },
+    "8": {
+      "item": "ocm:mithrilstick"
+    }
+  },
+  "result": {
+    "item": "ocm:foundrygrid",
+    "count": 1
+  }
+}

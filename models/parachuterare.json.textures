@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "anvil_base",
+        "1": "wool_colored_black"
+      },
+      "name": "default"
+    }
+  }
+}

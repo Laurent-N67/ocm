@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Dungeonglasspan1"
+      },
+      {
+        "value": "CUSTOM:Ironframe"
+      },
+      {
+        "value": "CUSTOM:Dungeonglasspan1"
+      },
+      {
+        "value": "CUSTOM:Ironframe"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "CUSTOM:Ironframe"
+      },
+      {
+        "value": "CUSTOM:Dungeonglasspan1"
+      },
+      {
+        "value": "CUSTOM:Ironframe"
+      },
+      {
+        "value": "CUSTOM:Dungeonglasspan1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Lantern2"
+    },
+    "name": "lanterncraft",
+    "namespace": "mod"
+  }
+}

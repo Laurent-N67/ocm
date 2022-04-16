@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:aventurine"
+    },
+    "1": {
+      "item": "ocm:aventurine"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ocm:spatulleaventurine",
+    "count": 1
+  }
+}

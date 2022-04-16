@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_prismarine",
+        "1": "barrel_side",
+        "2": "holpisblock1",
+        "5": "melon_side"
+      },
+      "name": "default"
+    }
+  }
+}

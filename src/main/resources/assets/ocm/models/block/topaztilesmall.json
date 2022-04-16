@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/topaz_tiles-small",
+    "up": "ocm:blocks/topaz_tiles-small",
+    "north": "ocm:blocks/topaz_tiles-small",
+    "east": "ocm:blocks/topaz_tiles-small",
+    "south": "ocm:blocks/topaz_tiles-small",
+    "west": "ocm:blocks/topaz_tiles-small",
+    "particle": "ocm:blocks/topaz_tiles-small"
+  }
+}

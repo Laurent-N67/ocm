@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "ocm:blocks/iron_bars",
+    "pane": "ocm:blocks/iron_bars"
+  }
+}

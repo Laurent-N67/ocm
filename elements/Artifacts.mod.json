@@ -1,0 +1,122 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "onClick": {
+            "name": "OpenodymenuToucheEnfoncee"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "<",
+          "x": 126,
+          "y": 38
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 90,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #90",
+          "x": 132,
+          "y": 83
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 91,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #91",
+          "x": 168,
+          "y": 83
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 92,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #92",
+          "x": 204,
+          "y": 83
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 93,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #93",
+          "x": 240,
+          "y": 83
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 94,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #94",
+          "x": 276,
+          "y": 83
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "artefactmenumain.png",
+          "use1Xscale": false,
+          "name": "artefactmenumain.png",
+          "x": 125,
+          "y": 37
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "Restaureartefact"
+    },
+    "onClosed": {
+      "name": "Slot1procedure"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 21,
+      "snapOnGrid": false
+    }
+  }
+}

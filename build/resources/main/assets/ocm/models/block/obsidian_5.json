@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/obsiliss4",
+    "up": "ocm:blocks/obsiliss4",
+    "north": "ocm:blocks/obsiliss4",
+    "east": "ocm:blocks/obsiliss4",
+    "south": "ocm:blocks/obsiliss4",
+    "west": "ocm:blocks/obsiliss4",
+    "particle": "ocm:blocks/obsiliss4"
+  }
+}

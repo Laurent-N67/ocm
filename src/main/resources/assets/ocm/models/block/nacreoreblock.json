@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/nacre_panel",
+    "up": "ocm:blocks/nacre_panel",
+    "north": "ocm:blocks/nacre_panel",
+    "east": "ocm:blocks/nacre_panel",
+    "south": "ocm:blocks/nacre_panel",
+    "west": "ocm:blocks/nacre_panel",
+    "particle": "ocm:blocks/nacre_panel"
+  }
+}

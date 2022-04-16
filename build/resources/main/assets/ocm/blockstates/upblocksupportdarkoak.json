@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/upblocksupportdarkoak"
+    },
+    "facing=east": {
+      "model": "ocm:block/upblocksupportdarkoak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/upblocksupportdarkoak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/upblocksupportdarkoak",
+      "y": 270
+    }
+  }
+}

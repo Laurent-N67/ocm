@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/incornerslatewhite",
+  "textures": {
+    "all": "ocm:blocks/salteywhite",
+    "particle": "ocm:blocks/salteywhite",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salteywhite"
+  }
+}

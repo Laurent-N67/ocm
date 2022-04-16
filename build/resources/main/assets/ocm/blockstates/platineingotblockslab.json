@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/platineingotblockslab"
+    },
+    "type=top": {
+      "model": "ocm:block/platineingotblockslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/platineingotblockslab_full"
+    }
+  }
+}

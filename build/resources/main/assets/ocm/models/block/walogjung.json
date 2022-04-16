@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "ocm:blocks/log_jungle",
+    "particle": "ocm:blocks/log_jungle"
+  }
+}

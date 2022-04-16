@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/chiseledstone_2slab"
+    },
+    "type=top": {
+      "model": "ocm:block/chiseledstone_2slab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/chiseledstone_2slab_full"
+    }
+  }
+}

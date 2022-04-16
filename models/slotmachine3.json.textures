@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lavabrick",
+        "1": "barrel_side",
+        "2": "holpisblock1",
+        "5": "copper_ore_block"
+      },
+      "name": "default"
+    }
+  }
+}

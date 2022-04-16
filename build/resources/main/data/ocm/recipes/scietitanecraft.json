@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:titane_ingot"
+    },
+    "4": {
+      "item": "ocm:titane_ingot"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ocm:scietitane",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/bouquet5",
+    "particle": "ocm:blocks/bouquet5"
+  }
+}

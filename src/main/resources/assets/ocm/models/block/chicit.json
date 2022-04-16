@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/citrinchiseled",
+    "up": "ocm:blocks/citrinchiseled",
+    "north": "ocm:blocks/citrinchiseled",
+    "east": "ocm:blocks/citrinchiseled",
+    "south": "ocm:blocks/citrinchiseled",
+    "west": "ocm:blocks/citrinchiseled",
+    "particle": "ocm:blocks/citrinchiseled"
+  }
+}

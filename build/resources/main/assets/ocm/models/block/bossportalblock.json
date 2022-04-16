@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/portalbossblock",
+    "up": "ocm:blocks/portalbossblock",
+    "north": "ocm:blocks/portalbossblock",
+    "east": "ocm:blocks/portalbossblock",
+    "south": "ocm:blocks/portalbossblock",
+    "west": "ocm:blocks/portalbossblock",
+    "particle": "ocm:blocks/portalbossblock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/glasseplane",
+    "up": "ocm:blocks/glasseplane",
+    "north": "ocm:blocks/glasseplane",
+    "east": "ocm:blocks/glasseplane",
+    "south": "ocm:blocks/glasseplane",
+    "west": "ocm:blocks/glasseplane",
+    "particle": "ocm:blocks/glasseplane"
+  }
+}

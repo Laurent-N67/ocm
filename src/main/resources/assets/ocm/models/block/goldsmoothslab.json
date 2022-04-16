@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/gold_smooth",
+    "top": "ocm:blocks/gold_smooth",
+    "side": "ocm:blocks/gold_smooth"
+  }
+}

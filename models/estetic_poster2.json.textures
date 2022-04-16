@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "planks_poster_10"
+      },
+      "name": "default"
+    }
+  }
+}

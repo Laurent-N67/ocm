@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/megachest",
+  "textures": {
+    "all": "ocm:blocks/chestpartbig",
+    "particle": "ocm:blocks/chestpartbig",
+    "0": "ocm:blocks/chestpartbig",
+    "1": "ocm:blocks/chestpartsidebig",
+    "2": "ocm:blocks/shulker_top_yellow"
+  }
+}

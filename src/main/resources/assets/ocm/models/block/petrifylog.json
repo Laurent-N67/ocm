@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/petrifyloginside",
+    "up": "ocm:blocks/petrifyloginside",
+    "north": "ocm:blocks/petryfylog",
+    "east": "ocm:blocks/petryfylog",
+    "south": "ocm:blocks/petryfylog",
+    "west": "ocm:blocks/petryfylog",
+    "particle": "ocm:blocks/petrifyloginside"
+  }
+}

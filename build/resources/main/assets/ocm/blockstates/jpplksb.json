@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/jpplksb"
+    },
+    "type=top": {
+      "model": "ocm:block/jpplksb_top"
+    },
+    "type=double": {
+      "model": "ocm:block/jpplksb_full"
+    }
+  }
+}

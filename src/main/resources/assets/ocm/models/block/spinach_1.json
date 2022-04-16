@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/spinach_stage_0",
+    "particle": "ocm:blocks/spinach_stage_0"
+  }
+}

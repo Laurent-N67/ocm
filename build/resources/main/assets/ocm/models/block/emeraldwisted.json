@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/emerald_wisted-side",
+    "up": "ocm:blocks/emerald_wisted-side",
+    "north": "ocm:blocks/emerald_wisted-side",
+    "east": "ocm:blocks/emerald_wisted-side",
+    "south": "ocm:blocks/emerald_wisted-side",
+    "west": "ocm:blocks/emerald_wisted-side",
+    "particle": "ocm:blocks/emerald_wisted-side"
+  }
+}

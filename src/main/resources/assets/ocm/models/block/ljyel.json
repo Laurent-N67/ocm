@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/japlanteryello",
+  "textures": {
+    "all": "ocm:blocks/japlantyello",
+    "particle": "ocm:blocks/japlantyello",
+    "0": "ocm:blocks/japlantyello"
+  }
+}

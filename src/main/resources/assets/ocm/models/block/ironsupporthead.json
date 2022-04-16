@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/supportpartiron1",
+  "textures": {
+    "all": "ocm:blocks/iron_block",
+    "particle": "ocm:blocks/iron_block",
+    "0": "ocm:blocks/iron_block"
+  }
+}

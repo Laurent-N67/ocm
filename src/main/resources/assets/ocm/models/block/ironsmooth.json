@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/iron_smooth",
+    "up": "ocm:blocks/iron_smooth",
+    "north": "ocm:blocks/iron_smooth",
+    "east": "ocm:blocks/iron_smooth",
+    "south": "ocm:blocks/iron_smooth",
+    "west": "ocm:blocks/iron_smooth",
+    "particle": "ocm:blocks/iron_smooth"
+  }
+}

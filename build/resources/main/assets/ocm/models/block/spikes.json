@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/spikes",
+  "textures": {
+    "all": "ocm:blocks/iron_block",
+    "particle": "ocm:blocks/iron_block",
+    "1": "ocm:blocks/anvil_base",
+    "2": "ocm:blocks/iron_block"
+  }
+}

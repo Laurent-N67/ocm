@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:tatchblock"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "ocm:tatchblock"
+    },
+    "3": {
+      "item": "ocm:tatchblock"
+    },
+    "4": {
+      "item": "ocm:tatchblock"
+    },
+    "5": {
+      "item": "ocm:tatchblock"
+    }
+  },
+  "result": {
+    "item": "ocm:wormcrate",
+    "count": 1
+  }
+}

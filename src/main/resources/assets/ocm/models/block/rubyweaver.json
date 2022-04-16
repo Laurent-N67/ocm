@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/ruby_weaver",
+    "up": "ocm:blocks/ruby_weaver",
+    "north": "ocm:blocks/ruby_weaver",
+    "east": "ocm:blocks/ruby_weaver",
+    "south": "ocm:blocks/ruby_weaver",
+    "west": "ocm:blocks/ruby_weaver",
+    "particle": "ocm:blocks/ruby_weaver"
+  }
+}

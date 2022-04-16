@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/slatebrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/slatebrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/slatebrickslab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/dark_prismarine",
+    "particle": "ocm:blocks/dark_prismarine"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/sea_lantern",
+    "up": "ocm:blocks/sea_lantern",
+    "north": "ocm:blocks/sea_lantern",
+    "east": "ocm:blocks/sea_lantern",
+    "south": "ocm:blocks/sea_lantern",
+    "west": "ocm:blocks/sea_lantern",
+    "particle": "ocm:blocks/sea_lantern"
+  }
+}

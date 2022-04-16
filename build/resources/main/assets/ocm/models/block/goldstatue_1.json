@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/goldstatue1",
+  "textures": {
+    "all": "ocm:blocks/gold_block",
+    "particle": "ocm:blocks/gold_block",
+    "0": "ocm:blocks/goldskin"
+  }
+}

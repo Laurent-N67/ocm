@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "iron_blocksteelbig96",
+        "2": "iron_blockalpha",
+        "3": "iron_blocksteelbig96glyph"
+      },
+      "name": "default"
+    }
+  }
+}

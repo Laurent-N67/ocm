@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/dirtslab"
+    },
+    "type=top": {
+      "model": "ocm:block/dirtslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/dirtslab_full"
+    }
+  }
+}

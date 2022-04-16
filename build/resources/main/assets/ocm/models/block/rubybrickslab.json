@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/ruby_bricks-solid",
+    "top": "ocm:blocks/ruby_bricks-solid",
+    "side": "ocm:blocks/ruby_bricks-solid"
+  }
+}

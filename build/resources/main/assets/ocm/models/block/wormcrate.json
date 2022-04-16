@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/wormcrate",
+  "textures": {
+    "all": "ocm:blocks/barrel_bottom",
+    "particle": "ocm:blocks/barrel_bottom",
+    "0": "ocm:blocks/barrel_bottom"
+  }
+}

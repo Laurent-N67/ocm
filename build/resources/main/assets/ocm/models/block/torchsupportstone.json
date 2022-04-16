@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/torchsupportstone",
+  "textures": {
+    "all": "ocm:blocks/stone",
+    "particle": "ocm:blocks/stone",
+    "anvil": "ocm:blocks/stone"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ocm:block/hell_portal_ew"
+    },
+    "axis=x": {
+      "model": "ocm:block/hell_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "warmlybeer",
+    "customModelName": "Normal",
+    "name": "\"Warm\" Beer",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Bière chaude",
+      "avec un gout de fruits rouges"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "WarmlybeerQuandLaNourritureEstMangee"
+    }
+  }
+}

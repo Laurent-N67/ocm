@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:ruby_gem"
+    },
+    "1": {
+      "item": "ocm:ruby_gem"
+    },
+    "2": {
+      "item": "ocm:ruby_gem"
+    },
+    "3": {
+      "item": "ocm:ruby_gem"
+    },
+    "4": {
+      "item": "ocm:ruby_gem"
+    },
+    "5": {
+      "item": "ocm:ruby_gem"
+    },
+    "6": {
+      "item": "ocm:ruby_gem"
+    },
+    "7": {
+      "item": "ocm:ruby_gem"
+    },
+    "8": {
+      "item": "ocm:ruby_gem"
+    }
+  },
+  "result": {
+    "item": "ocm:rubyblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/benchleft"
+    },
+    "facing=east": {
+      "model": "ocm:block/benchleft",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/benchleft",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/benchleft",
+      "y": 270
+    }
+  }
+}

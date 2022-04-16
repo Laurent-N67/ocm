@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "thatch1",
+        "contenant": "topwinedec"
+      },
+      "name": "default"
+    }
+  }
+}

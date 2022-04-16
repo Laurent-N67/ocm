@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "ocm:blocks/anvil_base",
+    "particle": "ocm:blocks/anvil_base"
+  }
+}

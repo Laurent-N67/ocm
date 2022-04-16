@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "ocm:blocks/dirt",
+    "top": "ocm:blocks/dirt",
+    "side": "ocm:blocks/dirt"
+  }
+}

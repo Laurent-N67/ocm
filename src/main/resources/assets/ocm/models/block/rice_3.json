@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/riceplant35",
+    "particle": "ocm:blocks/riceplant35"
+  }
+}

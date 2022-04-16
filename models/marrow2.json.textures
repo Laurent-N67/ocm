@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "marrowtop": "marrowtop1",
+        "leaves": "leavesbase1",
+        "marrowside": "marrowside1"
+      },
+      "name": "default"
+    }
+  }
+}

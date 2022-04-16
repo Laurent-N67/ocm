@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "ocm:onyx"
+    },
+    "3": {
+      "item": "ocm:onyx"
+    },
+    "5": {
+      "item": "ocm:metalstick"
+    },
+    "7": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:scissorsonyx",
+    "count": 1
+  }
+}

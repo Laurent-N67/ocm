@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/lpillarstone",
+  "textures": {
+    "all": "ocm:blocks/renforcedstone",
+    "particle": "ocm:blocks/renforcedstone",
+    "0": "ocm:blocks/renforcedstone"
+  }
+}

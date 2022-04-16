@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/spawnerlvl1",
+    "up": "ocm:blocks/spawnerlvl1",
+    "north": "ocm:blocks/spawnerlvl1",
+    "east": "ocm:blocks/spawnerlvl1",
+    "south": "ocm:blocks/spawnerlvl1",
+    "west": "ocm:blocks/spawnerlvl1",
+    "particle": "ocm:blocks/spawnerlvl1"
+  }
+}

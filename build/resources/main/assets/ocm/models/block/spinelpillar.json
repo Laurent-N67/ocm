@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/spinel_pillar-top",
+    "up": "ocm:blocks/spinel_pillar-top",
+    "north": "ocm:blocks/spinel_pillar-side",
+    "east": "ocm:blocks/spinel_pillar-side",
+    "south": "ocm:blocks/spinel_pillar-side",
+    "west": "ocm:blocks/spinel_pillar-side",
+    "particle": "ocm:blocks/spinel_pillar-top"
+  }
+}

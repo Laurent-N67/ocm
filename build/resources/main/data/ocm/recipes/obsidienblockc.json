@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:obsidieningot"
+    },
+    "1": {
+      "item": "ocm:obsidieningot"
+    },
+    "2": {
+      "item": "ocm:obsidieningot"
+    },
+    "3": {
+      "item": "ocm:obsidieningot"
+    },
+    "4": {
+      "item": "ocm:obsidieningot"
+    },
+    "5": {
+      "item": "ocm:obsidieningot"
+    },
+    "6": {
+      "item": "ocm:obsidieningot"
+    },
+    "7": {
+      "item": "ocm:obsidieningot"
+    },
+    "8": {
+      "item": "ocm:obsidieningot"
+    }
+  },
+  "result": {
+    "item": "ocm:obsidienblock",
+    "count": 1
+  }
+}

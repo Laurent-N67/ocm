@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/parachute",
+  "textures": {
+    "0": "ocm:blocks/barrel_bottom",
+    "1": "ocm:blocks/white",
+    "particle": "ocm:items/icons-sbed"
+  }
+}

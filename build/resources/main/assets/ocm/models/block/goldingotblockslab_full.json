@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ocm:blocks/gold_ingotblock",
+    "top": "ocm:blocks/gold_ingotblock",
+    "side": "ocm:blocks/gold_ingotblock"
+  }
+}

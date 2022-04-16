@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/crforan"
+    },
+    "facing=east": {
+      "model": "ocm:block/crforan",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/crforan",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/crforan",
+      "y": 270
+    }
+  }
+}

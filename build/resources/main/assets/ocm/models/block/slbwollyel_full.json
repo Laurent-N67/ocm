@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ocm:blocks/wool_colored_yellow",
+    "top": "ocm:blocks/wool_colored_yellow",
+    "side": "ocm:blocks/wool_colored_yellow"
+  }
+}

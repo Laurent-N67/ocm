@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/ritualcenter",
+  "textures": {
+    "all": "ocm:blocks/largest",
+    "particle": "ocm:blocks/largest",
+    "0": "ocm:blocks/largest"
+  }
+}

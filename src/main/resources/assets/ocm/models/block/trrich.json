@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/trophygold",
+  "textures": {
+    "all": "ocm:blocks/bluebrick",
+    "particle": "ocm:blocks/bluebrick",
+    "0": "ocm:blocks/char (10)",
+    "5": "ocm:blocks/lapis_blockalpha"
+  }
+}

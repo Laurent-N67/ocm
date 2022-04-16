@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/titane_ingotblock",
+    "up": "ocm:blocks/titane_ingotblock",
+    "north": "ocm:blocks/titane_ingotblock",
+    "east": "ocm:blocks/titane_ingotblock",
+    "south": "ocm:blocks/titane_ingotblock",
+    "west": "ocm:blocks/titane_ingotblock",
+    "particle": "ocm:blocks/titane_ingotblock"
+  }
+}

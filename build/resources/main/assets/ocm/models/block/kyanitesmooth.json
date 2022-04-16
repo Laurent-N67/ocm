@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/kyanite_raw",
+    "up": "ocm:blocks/kyanite_raw",
+    "north": "ocm:blocks/kyanite_raw",
+    "east": "ocm:blocks/kyanite_raw",
+    "south": "ocm:blocks/kyanite_raw",
+    "west": "ocm:blocks/kyanite_raw",
+    "particle": "ocm:blocks/kyanite_raw"
+  }
+}

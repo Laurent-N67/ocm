@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/stonebrick_moussy",
+    "up": "ocm:blocks/stonebrick_moussy",
+    "north": "ocm:blocks/stonebrick_moussy",
+    "east": "ocm:blocks/stonebrick_moussy",
+    "south": "ocm:blocks/stonebrick_moussy",
+    "west": "ocm:blocks/stonebrick_moussy",
+    "particle": "ocm:blocks/stonebrick_moussy"
+  }
+}

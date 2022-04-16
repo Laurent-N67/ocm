@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/trophyegirl",
+  "textures": {
+    "all": "ocm:blocks/bluebrick",
+    "particle": "ocm:blocks/bluebrick",
+    "0": "ocm:blocks/char (7)",
+    "1": "ocm:blocks/yellowbrick"
+  }
+}

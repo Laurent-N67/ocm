@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/fermentedshroom4",
+  "textures": {
+    "all": "ocm:blocks/thatch1",
+    "particle": "ocm:blocks/thatch1",
+    "1": "ocm:blocks/fermentedshroom",
+    "2": "ocm:blocks/thatch1"
+  }
+}

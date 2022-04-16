@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/cornerrooftpink",
+  "textures": {
+    "all": "ocm:blocks/saltepink",
+    "particle": "ocm:blocks/saltepink",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/saltepink",
+    "missing": "ocm:blocks/planks_oak"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/chainoffset",
+  "textures": {
+    "all": "ocm:blocks/chain",
+    "particle": "ocm:blocks/chain",
+    "0": "ocm:blocks/chain"
+  }
+}

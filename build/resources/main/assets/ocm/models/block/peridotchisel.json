@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/peridot_road",
+    "up": "ocm:blocks/peridot_road",
+    "north": "ocm:blocks/peridot_road",
+    "east": "ocm:blocks/peridot_road",
+    "south": "ocm:blocks/peridot_road",
+    "west": "ocm:blocks/peridot_road",
+    "particle": "ocm:blocks/peridot_road"
+  }
+}

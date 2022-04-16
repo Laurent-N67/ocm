@@ -1,0 +1,12 @@
+{
+  "parent": "ocm:custom/nightstand",
+  "textures": {
+    "all": "ocm:blocks/planks_oak",
+    "particle": "ocm:blocks/planks_oak",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/stone",
+    "2": "ocm:blocks/renforcedplank",
+    "3": "ocm:blocks/stone_slab_top",
+    "4": "ocm:blocks/log_spruce"
+  }
+}

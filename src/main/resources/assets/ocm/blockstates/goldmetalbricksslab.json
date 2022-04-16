@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/goldmetalbricksslab"
+    },
+    "type=top": {
+      "model": "ocm:block/goldmetalbricksslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/goldmetalbricksslab_full"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/jar1",
+  "textures": {
+    "all": "ocm:blocks/jar",
+    "particle": "ocm:blocks/jar",
+    "0": "ocm:blocks/jar",
+    "1": "ocm:blocks/dirt",
+    "missing": "ocm:blocks/dirt"
+  }
+}

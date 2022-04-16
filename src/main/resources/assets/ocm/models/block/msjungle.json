@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/planks_jungle_moussy",
+    "up": "ocm:blocks/planks_jungle_moussy",
+    "north": "ocm:blocks/planks_jungle_moussy",
+    "east": "ocm:blocks/planks_jungle_moussy",
+    "south": "ocm:blocks/planks_jungle_moussy",
+    "west": "ocm:blocks/planks_jungle_moussy",
+    "particle": "ocm:blocks/planks_jungle_moussy"
+  }
+}

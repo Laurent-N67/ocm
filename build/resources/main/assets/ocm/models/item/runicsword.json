@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/epicrunicsword",
+  "textures": {
+    "1": "ocm:blocks/iron_blocksteelbig96",
+    "2": "ocm:blocks/iron_blockalpha",
+    "3": "ocm:blocks/iron_blocksteelbig96glyph",
+    "particle": "ocm:items/mythril_sword"
+  }
+}

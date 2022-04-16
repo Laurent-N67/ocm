@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "piston_bottom",
+        "1": "planks_oak",
+        "3": "black"
+      },
+      "name": "default"
+    }
+  }
+}

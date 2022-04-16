@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/vase_2deco"
+    },
+    "facing=east": {
+      "model": "ocm:block/vase_2deco",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/vase_2deco",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/vase_2deco",
+      "y": 270
+    }
+  }
+}

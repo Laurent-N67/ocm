@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "ocm:blocks/bamboo_planks",
+    "top": "ocm:blocks/bamboo_planks",
+    "side": "ocm:blocks/bamboo_planks"
+  }
+}

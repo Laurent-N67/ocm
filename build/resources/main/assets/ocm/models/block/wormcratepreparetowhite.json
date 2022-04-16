@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/wormcratepreparetowhite",
+  "textures": {
+    "all": "ocm:blocks/barrel_bottom",
+    "particle": "ocm:blocks/barrel_bottom",
+    "0": "ocm:blocks/barrel_bottom",
+    "1": "ocm:blocks/blockstingwhite"
+  }
+}

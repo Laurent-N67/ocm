@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/rooftwhite",
+  "textures": {
+    "all": "ocm:blocks/salteywhite",
+    "particle": "ocm:blocks/salteywhite",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/salteywhite",
+    "missing": "ocm:blocks/planks_oak"
+  }
+}

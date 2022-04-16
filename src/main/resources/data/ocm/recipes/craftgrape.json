@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:vineplant"
+    }
+  ],
+  "result": {
+    "item": "ocm:grape",
+    "count": 2
+  }
+}

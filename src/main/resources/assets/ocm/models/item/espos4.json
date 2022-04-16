@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/estetic_poster4",
+  "textures": {
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/planks_poster_17",
+    "particle": "ocm:items/sign"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/salte",
+    "particle": "ocm:blocks/salte"
+  }
+}

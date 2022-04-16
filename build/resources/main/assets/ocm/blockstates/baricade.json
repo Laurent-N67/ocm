@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/baricade"
+    },
+    "facing=east": {
+      "model": "ocm:block/baricade",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/baricade",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/baricade",
+      "y": 270
+    }
+  }
+}

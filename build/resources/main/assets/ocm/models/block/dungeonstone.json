@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/largest",
+    "up": "ocm:blocks/largest",
+    "north": "ocm:blocks/largest",
+    "east": "ocm:blocks/largest",
+    "south": "ocm:blocks/largest",
+    "west": "ocm:blocks/largest",
+    "particle": "ocm:blocks/largest"
+  }
+}

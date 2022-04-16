@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "piston_top_normal"
+      },
+      "name": "default"
+    }
+  }
+}

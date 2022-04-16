@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/blast_furnace_top",
+    "up": "ocm:blocks/blast_furnace_top",
+    "north": "ocm:blocks/blast_furnace_top",
+    "east": "ocm:blocks/blast_furnace_top",
+    "south": "ocm:blocks/blast_furnace_top",
+    "west": "ocm:blocks/blast_furnace_top",
+    "particle": "ocm:blocks/blast_furnace_top"
+  }
+}

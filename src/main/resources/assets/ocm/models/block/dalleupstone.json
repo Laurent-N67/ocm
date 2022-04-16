@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/dalleupstone",
+  "textures": {
+    "all": "ocm:blocks/stone",
+    "particle": "ocm:blocks/stone",
+    "0": "ocm:blocks/stone"
+  }
+}

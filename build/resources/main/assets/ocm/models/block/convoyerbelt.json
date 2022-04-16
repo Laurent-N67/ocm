@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/convoyerbelt",
+  "textures": {
+    "all": "ocm:blocks/anvil_base",
+    "particle": "ocm:blocks/anvil_base",
+    "0": "ocm:blocks/anvil_base",
+    "1": "ocm:blocks/conveyerbelt"
+  }
+}

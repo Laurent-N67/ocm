@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "txtrvase",
+        "1": "barrel_side",
+        "2": "holpisblock1",
+        "5": "aquacrystalstone"
+      },
+      "name": "default"
+    }
+  }
+}

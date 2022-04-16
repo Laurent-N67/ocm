@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:obsidieningot"
+    },
+    "1": {
+      "item": "ocm:obsidieningot"
+    },
+    "2": {
+      "item": "ocm:obsidieningot"
+    },
+    "4": {
+      "item": "ocm:metalstick"
+    },
+    "7": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:obsidien_pickaxe",
+    "count": 1
+  }
+}

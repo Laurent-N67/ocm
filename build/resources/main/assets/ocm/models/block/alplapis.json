@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/lapis_blockalpha",
+    "up": "ocm:blocks/lapis_blockalpha",
+    "north": "ocm:blocks/lapis_blockalpha",
+    "east": "ocm:blocks/lapis_blockalpha",
+    "south": "ocm:blocks/lapis_blockalpha",
+    "west": "ocm:blocks/lapis_blockalpha",
+    "particle": "ocm:blocks/lapis_blockalpha"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:amber_gem"
+    },
+    "1": {
+      "item": "ocm:amber_gem"
+    },
+    "2": {
+      "item": "ocm:amber_gem"
+    },
+    "3": {
+      "item": "ocm:amber_gem"
+    },
+    "4": {
+      "item": "ocm:amber_gem"
+    },
+    "5": {
+      "item": "ocm:amber_gem"
+    },
+    "6": {
+      "item": "ocm:amber_gem"
+    },
+    "7": {
+      "item": "ocm:amber_gem"
+    },
+    "8": {
+      "item": "ocm:amber_gem"
+    }
+  },
+  "result": {
+    "item": "ocm:amberblock",
+    "count": 1
+  }
+}

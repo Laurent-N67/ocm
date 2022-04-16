@@ -1,0 +1,11 @@
+{
+  "parent": "ocm:custom/slotmachine5",
+  "textures": {
+    "all": "ocm:blocks/woodencrate",
+    "particle": "ocm:blocks/woodencrate",
+    "0": "ocm:blocks/cobblestone",
+    "1": "ocm:blocks/barrel_side",
+    "2": "ocm:blocks/holpisblock1",
+    "5": "ocm:blocks/lapis_blockalpha"
+  }
+}

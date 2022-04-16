@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/winefermentation3",
+  "textures": {
+    "all": "ocm:blocks/thatch1",
+    "particle": "ocm:blocks/thatch1",
+    "2": "ocm:blocks/thatch1",
+    "contenant": "ocm:blocks/topwinedec"
+  }
+}

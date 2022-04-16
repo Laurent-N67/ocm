@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "ocm:blocks/ruby_bricks-solid",
+    "particle": "ocm:blocks/ruby_bricks-solid"
+  }
+}

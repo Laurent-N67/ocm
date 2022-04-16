@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/torchsupportbrick",
+  "textures": {
+    "all": "ocm:blocks/bticksquare",
+    "particle": "ocm:blocks/bticksquare",
+    "anvil": "ocm:blocks/bticksquare"
+  }
+}

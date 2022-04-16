@@ -1,0 +1,108 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Japan ocean",
+    "groundBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "grassColor": {
+      "value": -15187176,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -15187176,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16750951,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.0,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "CUSTOM:Japanocean"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 1.0,
+    "baseHeight": -0.5,
+    "heightVariation": 0.5,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 100,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 5,
+    "seagrassPerChunk": 20,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 5,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Big trees",
+    "treeType": 0,
+    "minHeight": 3,
+    "treeStem": {
+      "value": "Blocks.LOG#1"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Leavessakura"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "MonsterRooms",
+      "Structures",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": []
+  }
+}

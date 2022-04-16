@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/portalred",
+    "up": "ocm:blocks/portalred",
+    "north": "ocm:blocks/portalred",
+    "east": "ocm:blocks/portalred",
+    "south": "ocm:blocks/portalred",
+    "west": "ocm:blocks/portalred",
+    "particle": "ocm:blocks/portalred"
+  }
+}

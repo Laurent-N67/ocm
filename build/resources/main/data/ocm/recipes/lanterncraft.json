@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:dungeonglasspan_1"
+    },
+    "1": {
+      "item": "ocm:ironframe"
+    },
+    "2": {
+      "item": "ocm:dungeonglasspan_1"
+    },
+    "3": {
+      "item": "ocm:ironframe"
+    },
+    "4": {
+      "item": "minecraft:torch"
+    },
+    "5": {
+      "item": "ocm:ironframe"
+    },
+    "6": {
+      "item": "ocm:dungeonglasspan_1"
+    },
+    "7": {
+      "item": "ocm:ironframe"
+    },
+    "8": {
+      "item": "ocm:dungeonglasspan_1"
+    }
+  },
+  "result": {
+    "item": "ocm:lantern_2",
+    "count": 4
+  }
+}

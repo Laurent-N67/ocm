@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/mithrilsmoothslab"
+    },
+    "type=top": {
+      "model": "ocm:block/mithrilsmoothslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/mithrilsmoothslab_full"
+    }
+  }
+}

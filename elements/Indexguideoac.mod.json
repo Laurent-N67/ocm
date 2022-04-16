@@ -1,0 +1,116 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "emptybookx15.png",
+          "use1Xscale": true,
+          "name": "emptybookx15.png",
+          "x": 61,
+          "y": 14
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "créer sa maison",
+          "onClick": {
+            "name": "Tutot1"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "créer sa maison",
+          "x": 78,
+          "y": 58
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Les nouveaux minerais",
+          "onClick": {
+            "name": "Tutom1"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "Les nouveaux minerais",
+          "x": 78,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Quelques régles",
+          "onClick": {
+            "name": "Tutor1"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "Quelques régles",
+          "x": 78,
+          "y": 102
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Les item légendaires",
+          "onClick": {
+            "name": "Tutol1"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "Les item légendaires",
+          "x": 78,
+          "y": 124
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Les différents mondes",
+          "onClick": {
+            "name": "Tutow1"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "Les différents mondes",
+          "x": 78,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Les artéfactes",
+          "onClick": {
+            "name": "Tutoa1"
+          },
+          "width": 129,
+          "height": 20,
+          "name": "Les artéfactes",
+          "x": 78,
+          "y": 146
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 11,
+      "sy": 11,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

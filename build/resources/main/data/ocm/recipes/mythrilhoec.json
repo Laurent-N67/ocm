@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:mythril_ingot"
+    },
+    "1": {
+      "item": "ocm:mythril_ingot"
+    },
+    "3": {
+      "item": "ocm:mithrilstick"
+    },
+    "5": {
+      "item": "ocm:mithrilstick"
+    }
+  },
+  "result": {
+    "item": "ocm:mythril_hoe",
+    "count": 1
+  }
+}

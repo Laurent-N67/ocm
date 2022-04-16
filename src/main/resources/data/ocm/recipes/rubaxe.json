@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:ruby_gem"
+    },
+    "1": {
+      "item": "ocm:ruby_gem"
+    },
+    "2": {
+      "item": "ocm:ruby_gem"
+    },
+    "3": {
+      "item": "ocm:metalstick"
+    },
+    "5": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:ruby_axe",
+    "count": 1
+  }
+}

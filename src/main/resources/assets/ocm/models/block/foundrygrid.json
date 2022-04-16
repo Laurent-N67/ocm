@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/foundrygrill",
+    "up": "ocm:blocks/foundrygrill",
+    "north": "ocm:blocks/foundrygrill",
+    "east": "ocm:blocks/foundrygrill",
+    "south": "ocm:blocks/foundrygrill",
+    "west": "ocm:blocks/foundrygrill",
+    "particle": "ocm:blocks/foundrygrill"
+  }
+}

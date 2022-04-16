@@ -1,0 +1,11 @@
+{
+  "parent": "ocm:custom/woodenflowerpot",
+  "textures": {
+    "all": "ocm:blocks/barrel_side",
+    "particle": "ocm:blocks/barrel_side",
+    "0": "ocm:blocks/planks_oak",
+    "1": "ocm:blocks/dirt",
+    "2": "ocm:blocks/barrel_side",
+    "3": "ocm:blocks/barrel_bottom"
+  }
+}

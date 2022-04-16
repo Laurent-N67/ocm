@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/spectralsword",
+  "textures": {
+    "all": "ocm:blocks/spectral",
+    "particle": "ocm:blocks/spectral",
+    "0": "ocm:blocks/spectral"
+  }
+}

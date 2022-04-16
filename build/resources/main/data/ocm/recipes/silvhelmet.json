@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:silver_ingot"
+    },
+    "1": {
+      "item": "ocm:silver_ingot"
+    },
+    "2": {
+      "item": "ocm:silver_ingot"
+    },
+    "3": {
+      "item": "ocm:silver_ingot"
+    },
+    "5": {
+      "item": "ocm:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "ocm:silver_armor_helmet",
+    "count": 1
+  }
+}

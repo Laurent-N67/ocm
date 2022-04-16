@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/nordicblockportal",
+    "up": "ocm:blocks/nordicblockportal",
+    "north": "ocm:blocks/nordicblockportal",
+    "east": "ocm:blocks/nordicblockportal",
+    "south": "ocm:blocks/nordicblockportal",
+    "west": "ocm:blocks/nordicblockportal",
+    "particle": "ocm:blocks/nordicblockportal"
+  }
+}

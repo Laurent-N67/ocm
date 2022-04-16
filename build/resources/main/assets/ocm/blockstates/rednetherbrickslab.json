@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/rednetherbrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/rednetherbrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/rednetherbrickslab_full"
+    }
+  }
+}

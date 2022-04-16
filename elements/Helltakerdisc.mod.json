@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "helltakerdisc",
+    "name": "Vitality",
+    "description": "Vitality from Helltaker",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:saymaxwellhelltaker"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/onyx_road",
+    "up": "ocm:blocks/onyx_road",
+    "north": "ocm:blocks/onyx_road",
+    "east": "ocm:blocks/onyx_road",
+    "south": "ocm:blocks/onyx_road",
+    "west": "ocm:blocks/onyx_road",
+    "particle": "ocm:blocks/onyx_road"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:dirt"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "minecraft:dirt"
+    },
+    "6": {
+      "item": "minecraft:dirt"
+    },
+    "7": {
+      "item": "minecraft:dirt"
+    },
+    "8": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "ocm:dirtstair",
+    "count": 4
+  }
+}

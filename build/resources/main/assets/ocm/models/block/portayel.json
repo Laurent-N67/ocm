@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/portalyello",
+    "up": "ocm:blocks/portalyello",
+    "north": "ocm:blocks/portalyello",
+    "east": "ocm:blocks/portalyello",
+    "south": "ocm:blocks/portalyello",
+    "west": "ocm:blocks/portalyello",
+    "particle": "ocm:blocks/portalyello"
+  }
+}

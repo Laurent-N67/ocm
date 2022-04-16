@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/canon",
+  "textures": {
+    "all": "ocm:blocks/piston_bottom",
+    "particle": "ocm:blocks/piston_bottom",
+    "0": "ocm:blocks/piston_bottom",
+    "1": "ocm:blocks/planks_oak",
+    "3": "ocm:blocks/black"
+  }
+}

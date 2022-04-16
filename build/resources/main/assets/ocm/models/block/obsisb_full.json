@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "ocm:blocks/obsiliscadre",
+    "top": "ocm:blocks/obsiliscadre",
+    "side": "ocm:blocks/obsiliscadre"
+  }
+}

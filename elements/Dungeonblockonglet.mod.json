@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Dungeon block",
+    "icon": {
+      "value": "Blocks.POLISHED_BLACKSTONE_BRICKS"
+    },
+    "showSearch": true
+  }
+}

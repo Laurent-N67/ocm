@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/packed_ice",
+    "up": "ocm:blocks/packed_ice",
+    "north": "ocm:blocks/packed_ice",
+    "east": "ocm:blocks/packed_ice",
+    "south": "ocm:blocks/packed_ice",
+    "west": "ocm:blocks/packed_ice",
+    "particle": "ocm:blocks/packed_ice"
+  }
+}

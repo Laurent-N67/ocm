@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/amber_bricks-solid",
+    "top": "ocm:blocks/amber_bricks-solid",
+    "side": "ocm:blocks/amber_bricks-solid"
+  }
+}

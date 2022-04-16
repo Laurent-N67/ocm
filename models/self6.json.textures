@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "ruby_ore",
+        "3": "saphir_ore",
+        "4": "barrel_top"
+      },
+      "name": "default"
+    }
+  }
+}

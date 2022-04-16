@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/end_log_face",
+    "up": "ocm:blocks/end_log_face",
+    "north": "ocm:blocks/end_log_top",
+    "east": "ocm:blocks/end_log_top",
+    "south": "ocm:blocks/end_log_top",
+    "west": "ocm:blocks/end_log_top",
+    "particle": "ocm:blocks/end_log_face"
+  }
+}

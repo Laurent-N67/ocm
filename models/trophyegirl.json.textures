@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "char (7)",
+        "1": "yellowbrick"
+      },
+      "name": "default"
+    }
+  }
+}

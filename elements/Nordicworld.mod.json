@@ -1,0 +1,71 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Nordicplain"
+      },
+      {
+        "value": "CUSTOM:Nordicmountain"
+      },
+      {
+        "value": "CUSTOM:Nordicforest"
+      },
+      {
+        "value": "CUSTOM:Nordicmountainforest"
+      },
+      {
+        "value": "CUSTOM:Nordicoceancold"
+      },
+      {
+        "value": "CUSTOM:Nordicoceannotcold"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -4138753,
+      "frgbvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "fvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "falpha": 1.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Nordicportalblock"
+    },
+    "portalParticles": {
+      "value": "SPELL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Nordicworld Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "nordicworldkey",
+    "portalTexture": "frost_portal",
+    "enablePortal": true
+  }
+}

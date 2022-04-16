@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/nacrebrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/nacrebrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/nacrebrickslab_full"
+    }
+  }
+}

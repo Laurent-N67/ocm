@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/torchsupportmetal",
+  "textures": {
+    "all": "ocm:blocks/anvil_base",
+    "particle": "ocm:blocks/anvil_base",
+    "anvil": "ocm:blocks/anvil_base"
+  }
+}

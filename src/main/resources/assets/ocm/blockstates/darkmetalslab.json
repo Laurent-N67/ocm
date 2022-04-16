@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/darkmetalslab"
+    },
+    "type=top": {
+      "model": "ocm:block/darkmetalslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/darkmetalslab_full"
+    }
+  }
+}

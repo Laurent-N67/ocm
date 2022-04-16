@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "ocm:tuileard"
+    },
+    "4": {
+      "item": "ocm:tuileard"
+    },
+    "5": {
+      "item": "ocm:tuileard"
+    },
+    "6": {
+      "item": "ocm:tuileard"
+    },
+    "7": {
+      "item": "ocm:tuileard"
+    },
+    "8": {
+      "item": "ocm:tuileard"
+    }
+  },
+  "result": {
+    "item": "ocm:slatestair",
+    "count": 5
+  }
+}

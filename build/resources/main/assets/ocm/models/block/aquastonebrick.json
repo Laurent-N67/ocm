@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/aquastonebrick",
+    "up": "ocm:blocks/aquastonebrick",
+    "north": "ocm:blocks/aquastonebrick",
+    "east": "ocm:blocks/aquastonebrick",
+    "south": "ocm:blocks/aquastonebrick",
+    "west": "ocm:blocks/aquastonebrick",
+    "particle": "ocm:blocks/aquastonebrick"
+  }
+}

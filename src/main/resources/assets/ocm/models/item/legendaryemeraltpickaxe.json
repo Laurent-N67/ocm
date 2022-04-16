@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/legendaryemeraldpickaxe",
+  "textures": {
+    "0": "ocm:blocks/polished_andesite",
+    "1": "ocm:blocks/anvil_base",
+    "2": "ocm:blocks/greenemerald",
+    "particle": "ocm:items/legendarypickaxe"
+  }
+}

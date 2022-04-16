@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:obsipow"
+    },
+    "1": {
+      "item": "ocm:obsipow"
+    },
+    "2": {
+      "item": "ocm:obsipow"
+    },
+    "3": {
+      "item": "ocm:obsipow"
+    },
+    "4": {
+      "item": "ocm:obsipow"
+    },
+    "5": {
+      "item": "ocm:obsipow"
+    },
+    "6": {
+      "item": "ocm:obsipow"
+    },
+    "7": {
+      "item": "ocm:obsipow"
+    },
+    "8": {
+      "item": "ocm:obsipow"
+    }
+  },
+  "result": {
+    "item": "ocm:obsidieningot",
+    "count": 1
+  }
+}

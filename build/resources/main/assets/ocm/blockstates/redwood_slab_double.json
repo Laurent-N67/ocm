@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "ocm:redwood_slab_double"
+    }
+  }
+}

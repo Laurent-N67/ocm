@@ -1,0 +1,12 @@
+{
+  "parent": "ocm:custom/self7",
+  "textures": {
+    "all": "ocm:blocks/barrel_top",
+    "particle": "ocm:blocks/barrel_top",
+    "1": "ocm:blocks/obsidien_swordbot",
+    "3": "ocm:blocks/wood_swordbot",
+    "4": "ocm:blocks/barrel_top",
+    "5": "ocm:blocks/iron_swordbot",
+    "6": "ocm:blocks/saphyr_swordbot"
+  }
+}

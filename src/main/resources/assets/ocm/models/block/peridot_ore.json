@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/peridotore2",
+    "particle": "ocm:blocks/peridotore2"
+  }
+}

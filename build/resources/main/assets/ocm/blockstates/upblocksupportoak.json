@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/upblocksupportoak"
+    },
+    "facing=east": {
+      "model": "ocm:block/upblocksupportoak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/upblocksupportoak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/upblocksupportoak",
+      "y": 270
+    }
+  }
+}

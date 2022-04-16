@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/dalleupcobblestone",
+  "textures": {
+    "all": "ocm:blocks/vacobble",
+    "particle": "ocm:blocks/vacobble",
+    "0": "ocm:blocks/vacobble"
+  }
+}

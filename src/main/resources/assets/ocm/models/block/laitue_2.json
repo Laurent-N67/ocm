@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ocm:blocks/laitubc2",
+    "particle": "ocm:blocks/laitubc2"
+  }
+}

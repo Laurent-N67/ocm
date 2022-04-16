@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ruby_ore_block",
+        "1": "anvil_base"
+      },
+      "name": "default"
+    }
+  }
+}

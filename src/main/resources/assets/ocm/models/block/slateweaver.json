@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/slate_weaver",
+    "up": "ocm:blocks/slate_weaver",
+    "north": "ocm:blocks/slate_weaver",
+    "east": "ocm:blocks/slate_weaver",
+    "south": "ocm:blocks/slate_weaver",
+    "west": "ocm:blocks/slate_weaver",
+    "particle": "ocm:blocks/slate_weaver"
+  }
+}

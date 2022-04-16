@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/crossstone",
+    "up": "ocm:blocks/crossstone",
+    "north": "ocm:blocks/crossstone",
+    "east": "ocm:blocks/crossstone",
+    "south": "ocm:blocks/crossstone",
+    "west": "ocm:blocks/crossstone",
+    "particle": "ocm:blocks/crossstone"
+  }
+}

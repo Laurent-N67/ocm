@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "aquacrystalstone",
+        "1": "chestskin"
+      },
+      "name": "default"
+    }
+  }
+}

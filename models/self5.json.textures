@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "brickss",
+        "3": "dirt",
+        "4": "barrel_top",
+        "5": "roseau"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/obsiliscadre",
+    "up": "ocm:blocks/obsiliscadre",
+    "north": "ocm:blocks/obsiliscadre",
+    "east": "ocm:blocks/obsiliscadre",
+    "south": "ocm:blocks/obsiliscadre",
+    "west": "ocm:blocks/obsiliscadre",
+    "particle": "ocm:blocks/obsiliscadre"
+  }
+}

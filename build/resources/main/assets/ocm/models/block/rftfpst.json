@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/stonerooftfireplace",
+  "textures": {
+    "all": "ocm:blocks/stonebrick",
+    "particle": "ocm:blocks/stonebrick",
+    "black": "ocm:blocks/wool_colored_black",
+    "missing": "ocm:blocks/stone",
+    "stone": "ocm:blocks/stonebrick"
+  }
+}

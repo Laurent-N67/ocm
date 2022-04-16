@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/emeraldchiseled",
+    "up": "ocm:blocks/emeraldchiseled",
+    "north": "ocm:blocks/emeraldchiseled",
+    "east": "ocm:blocks/emeraldchiseled",
+    "south": "ocm:blocks/emeraldchiseled",
+    "west": "ocm:blocks/emeraldchiseled",
+    "particle": "ocm:blocks/emeraldchiseled"
+  }
+}

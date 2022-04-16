@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "stone",
+        "2": "renforcedplank",
+        "3": "stone_slab_top",
+        "4": "log_spruce"
+      },
+      "name": "default"
+    }
+  }
+}

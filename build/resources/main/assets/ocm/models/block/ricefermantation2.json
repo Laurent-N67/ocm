@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/ricefermentation3",
+  "textures": {
+    "all": "ocm:blocks/thatch1",
+    "particle": "ocm:blocks/thatch1",
+    "leconteneurblock": "ocm:blocks/thatch1",
+    "contenu": "ocm:blocks/topricedec"
+  }
+}

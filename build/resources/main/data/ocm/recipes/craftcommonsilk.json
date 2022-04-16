@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:cocooncommon"
+    },
+    "1": {
+      "item": "ocm:cocooncommon"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "ocm:cocooncommon"
+    },
+    "4": {
+      "item": "ocm:cocooncommon"
+    },
+    "5": {
+      "item": "ocm:cocooncommon"
+    },
+    "6": {
+      "item": "ocm:cocooncommon"
+    },
+    "7": {
+      "item": "ocm:cocooncommon"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ocm:commonsilk",
+    "count": 1
+  }
+}

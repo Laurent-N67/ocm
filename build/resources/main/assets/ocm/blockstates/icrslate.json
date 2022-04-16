@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/icrslate"
+    },
+    "facing=east": {
+      "model": "ocm:block/icrslate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/icrslate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/icrslate",
+      "y": 270
+    }
+  }
+}

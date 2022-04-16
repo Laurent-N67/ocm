@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "ocm:slbwooldgy_double"
+    }
+  }
+}

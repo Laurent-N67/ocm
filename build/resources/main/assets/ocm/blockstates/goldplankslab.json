@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/goldplankslab"
+    },
+    "type=top": {
+      "model": "ocm:block/goldplankslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/goldplankslab_full"
+    }
+  }
+}

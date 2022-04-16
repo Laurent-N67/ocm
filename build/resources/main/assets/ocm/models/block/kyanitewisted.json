@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/kyanite_wisted-side",
+    "up": "ocm:blocks/kyanite_wisted-side",
+    "north": "ocm:blocks/kyanite_wisted-side",
+    "east": "ocm:blocks/kyanite_wisted-side",
+    "south": "ocm:blocks/kyanite_wisted-side",
+    "west": "ocm:blocks/kyanite_wisted-side",
+    "particle": "ocm:blocks/kyanite_wisted-side"
+  }
+}

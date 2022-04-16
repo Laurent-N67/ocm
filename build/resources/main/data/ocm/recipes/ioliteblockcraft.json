@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:iolite"
+    },
+    "1": {
+      "item": "ocm:iolite"
+    },
+    "2": {
+      "item": "ocm:iolite"
+    },
+    "3": {
+      "item": "ocm:iolite"
+    },
+    "4": {
+      "item": "ocm:iolite"
+    },
+    "5": {
+      "item": "ocm:iolite"
+    },
+    "6": {
+      "item": "ocm:iolite"
+    },
+    "7": {
+      "item": "ocm:iolite"
+    },
+    "8": {
+      "item": "ocm:iolite"
+    }
+  },
+  "result": {
+    "item": "ocm:ioliteoreblock",
+    "count": 1
+  }
+}

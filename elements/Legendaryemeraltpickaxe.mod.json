@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "legendarypickaxe",
+    "customModelName": "legendaryemeraldpickaxe:default",
+    "name": "Legendary Emerald Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 128000,
+    "efficiency": 128000.0,
+    "attackSpeed": 0.1,
+    "enchantability": 20099,
+    "damageVsEntity": 0.1,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

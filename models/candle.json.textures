@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "all": "cad",
+        "stub": "candlestub",
+        "flame": "flame"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "ocm:blocks/ghost_oak",
+    "particle": "ocm:blocks/ghost_oak"
+  }
+}

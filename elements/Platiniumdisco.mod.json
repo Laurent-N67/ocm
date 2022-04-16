@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diskplatiniumdisco",
+    "name": "Platinum disco",
+    "description": "platinum disco from gatari series",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:platinium_disco"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

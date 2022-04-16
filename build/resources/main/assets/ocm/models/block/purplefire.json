@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/firepurple",
+  "textures": {
+    "all": "ocm:blocks/firepurple",
+    "particle": "ocm:blocks/firepurple",
+    "0": "ocm:blocks/firepurple"
+  }
+}

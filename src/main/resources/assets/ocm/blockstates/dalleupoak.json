@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/dalleupoak"
+    },
+    "facing=east": {
+      "model": "ocm:block/dalleupoak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/dalleupoak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/dalleupoak",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "ocm:blocks/log_spruce",
+    "particle": "ocm:blocks/log_spruce"
+  }
+}

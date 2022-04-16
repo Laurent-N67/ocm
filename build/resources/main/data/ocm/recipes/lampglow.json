@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:metalstick"
+    },
+    "2": {
+      "item": "ocm:metalstick"
+    },
+    "4": {
+      "item": "ocm:polishedglowstone"
+    },
+    "6": {
+      "item": "ocm:metalstick"
+    },
+    "8": {
+      "item": "ocm:metalstick"
+    }
+  },
+  "result": {
+    "item": "ocm:lamp_2",
+    "count": 1
+  }
+}

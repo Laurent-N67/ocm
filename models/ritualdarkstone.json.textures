@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "largest",
+        "1": "citrindarkstone"
+      },
+      "name": "default"
+    }
+  }
+}

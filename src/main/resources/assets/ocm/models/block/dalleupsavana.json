@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/dalleupsavana",
+  "textures": {
+    "all": "ocm:blocks/planks_acacia",
+    "particle": "ocm:blocks/planks_acacia",
+    "0": "ocm:blocks/planks_acacia"
+  }
+}

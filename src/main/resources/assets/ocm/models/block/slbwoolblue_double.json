@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ocm:blocks/wool_colored_blue",
+    "particle": "ocm:blocks/wool_colored_blue"
+  }
+}

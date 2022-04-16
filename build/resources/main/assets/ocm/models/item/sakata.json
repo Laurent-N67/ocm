@@ -1,0 +1,10 @@
+{
+  "parent": "ocm:custom/katanasaph",
+  "textures": {
+    "garde": "ocm:blocks/citrine_ore_block",
+    "3": "ocm:blocks/blackstonebrick",
+    "manche*": "ocm:blocks/wooledpart",
+    "lame": "ocm:blocks/saphir_ore_block",
+    "particle": "ocm:items/swordquest"
+  }
+}

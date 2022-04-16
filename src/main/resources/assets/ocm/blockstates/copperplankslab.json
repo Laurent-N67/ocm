@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/copperplankslab"
+    },
+    "type=top": {
+      "model": "ocm:block/copperplankslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/copperplankslab_full"
+    }
+  }
+}

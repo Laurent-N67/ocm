@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/thatch",
+    "up": "ocm:blocks/thatch",
+    "north": "ocm:blocks/thatch",
+    "east": "ocm:blocks/thatch",
+    "south": "ocm:blocks/thatch",
+    "west": "ocm:blocks/thatch",
+    "particle": "ocm:blocks/thatch"
+  }
+}

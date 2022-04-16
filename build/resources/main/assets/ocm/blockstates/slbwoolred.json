@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/slbwoolred"
+    },
+    "type=top": {
+      "model": "ocm:block/slbwoolred_top"
+    },
+    "type=double": {
+      "model": "ocm:block/slbwoolred_full"
+    }
+  }
+}

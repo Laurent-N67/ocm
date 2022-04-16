@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "evilbeer",
+    "customModelName": "Normal",
+    "name": "\"Evil\" Beer",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Bière au goût de raisin",
+      "favorite des mages noirs"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "EvilbeerQuandLaNourritureEstMangee"
+    }
+  }
+}

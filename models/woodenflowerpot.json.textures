@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "dirt",
+        "2": "barrel_side",
+        "3": "barrel_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

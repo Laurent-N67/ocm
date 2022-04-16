@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/lpillaroak",
+  "textures": {
+    "all": "ocm:blocks/renforcedplank",
+    "particle": "ocm:blocks/renforcedplank",
+    "0": "ocm:blocks/renforcedplank"
+  }
+}

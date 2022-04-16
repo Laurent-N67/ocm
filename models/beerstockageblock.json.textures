@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iron_block",
+        "1": "piston_top_normal",
+        "2": "black",
+        "3": "mythril_ore_block",
+        "4": "planks_spruce"
+      },
+      "name": "default"
+    }
+  }
+}

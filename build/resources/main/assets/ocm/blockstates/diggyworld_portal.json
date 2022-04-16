@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ocm:block/diggyworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "ocm:block/diggyworld_portal_ns"
+    }
+  }
+}

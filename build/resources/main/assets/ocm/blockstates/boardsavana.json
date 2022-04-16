@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ocm:block/boardsavana"
+    },
+    "facing=east": {
+      "model": "ocm:block/boardsavana",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ocm:block/boardsavana",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ocm:block/boardsavana",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "ocm:block/boardsavana",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "ocm:block/boardsavana",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/katanaobsi",
+  "textures": {
+    "garde": "ocm:blocks/wooledpart",
+    "manche*": "ocm:blocks/citrine_ore_block",
+    "lame": "ocm:blocks/obsidian",
+    "particle": "ocm:items/swordquest"
+  }
+}

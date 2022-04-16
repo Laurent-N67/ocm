@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/titane_tile",
+    "top": "ocm:blocks/titane_tile",
+    "side": "ocm:blocks/titane_tile"
+  }
+}

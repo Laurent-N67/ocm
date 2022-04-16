@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "anvil_base",
+        "1": "redstone_blockelectric"
+      },
+      "name": "default"
+    }
+  }
+}

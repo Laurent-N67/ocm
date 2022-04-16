@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/parachuterare",
+  "textures": {
+    "0": "ocm:blocks/anvil_base",
+    "1": "ocm:blocks/wool_colored_black",
+    "particle": "ocm:items/icons-sbed"
+  }
+}

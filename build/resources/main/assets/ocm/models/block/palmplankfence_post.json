@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "ocm:blocks/palm_oak",
+    "particle": "ocm:blocks/palm_oak"
+  }
+}

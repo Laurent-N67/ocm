@@ -1,0 +1,8 @@
+{
+  "parent": "ocm:custom/japlanternstring",
+  "textures": {
+    "all": "ocm:blocks/stringpers1",
+    "particle": "ocm:blocks/stringpers1",
+    "2": "ocm:blocks/stringpers1"
+  }
+}

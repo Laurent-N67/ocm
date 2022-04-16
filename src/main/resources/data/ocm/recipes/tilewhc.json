@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ocm:tuileard"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "ocm:tuileard"
+    }
+  ],
+  "result": {
+    "item": "ocm:tilwhi",
+    "count": 2
+  }
+}

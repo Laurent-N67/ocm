@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/emerald_raw",
+    "up": "ocm:blocks/emerald_raw",
+    "north": "ocm:blocks/emerald_raw",
+    "east": "ocm:blocks/emerald_raw",
+    "south": "ocm:blocks/emerald_raw",
+    "west": "ocm:blocks/emerald_raw",
+    "particle": "ocm:blocks/emerald_raw"
+  }
+}

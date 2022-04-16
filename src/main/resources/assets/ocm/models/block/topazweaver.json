@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/topaz_weaver",
+    "up": "ocm:blocks/topaz_weaver",
+    "north": "ocm:blocks/topaz_weaver",
+    "east": "ocm:blocks/topaz_weaver",
+    "south": "ocm:blocks/topaz_weaver",
+    "west": "ocm:blocks/topaz_weaver",
+    "particle": "ocm:blocks/topaz_weaver"
+  }
+}

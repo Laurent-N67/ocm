@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ocm:block/mithrilmetalbrickslab"
+    },
+    "type=top": {
+      "model": "ocm:block/mithrilmetalbrickslab_top"
+    },
+    "type=double": {
+      "model": "ocm:block/mithrilmetalbrickslab_full"
+    }
+  }
+}

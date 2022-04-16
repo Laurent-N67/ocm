@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/rubychiseled",
+    "up": "ocm:blocks/rubychiseled",
+    "north": "ocm:blocks/rubychiseled",
+    "east": "ocm:blocks/rubychiseled",
+    "south": "ocm:blocks/rubychiseled",
+    "west": "ocm:blocks/rubychiseled",
+    "particle": "ocm:blocks/rubychiseled"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ocm:custom/fermentationcraterice2",
+  "textures": {
+    "all": "ocm:blocks/thatch",
+    "particle": "ocm:blocks/thatch",
+    "1": "ocm:blocks/topricedec",
+    "2": "ocm:blocks/thatch"
+  }
+}

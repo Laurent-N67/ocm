@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:obsidienblock"
+    },
+    "1": {
+      "item": "ocm:obsidienblock"
+    },
+    "2": {
+      "item": "ocm:obsidienblock"
+    },
+    "4": {
+      "item": "ocm:platiniumstick"
+    },
+    "7": {
+      "item": "ocm:platiniumstick"
+    }
+  },
+  "result": {
+    "item": "ocm:obsidienhammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "ocm:blocks/dungeonblock",
+    "top": "ocm:blocks/dungeonblock",
+    "side": "ocm:blocks/dungeonblock"
+  }
+}

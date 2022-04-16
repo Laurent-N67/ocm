@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:titane_ingot"
+    },
+    "1": {
+      "item": "ocm:platiniumstick"
+    },
+    "2": {
+      "item": "ocm:platiniumstick"
+    }
+  },
+  "result": {
+    "item": "ocm:titane_shovel",
+    "count": 1
+  }
+}

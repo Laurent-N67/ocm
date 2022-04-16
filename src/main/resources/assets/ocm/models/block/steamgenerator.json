@@ -1,0 +1,12 @@
+{
+  "parent": "ocm:custom/steamgenerator",
+  "textures": {
+    "all": "ocm:blocks/steamgeneratorface",
+    "particle": "ocm:blocks/steamgeneratorface",
+    "0": "ocm:blocks/anvil_base",
+    "1": "ocm:blocks/stonescrew",
+    "2": "ocm:blocks/steamgeneratorface",
+    "3": "ocm:blocks/steamgeneratorblock",
+    "4": "ocm:blocks/steamtop"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "ocm:metalstick"
+    },
+    "1": {
+      "item": "ocm:metalstick"
+    },
+    "2": {
+      "item": "minecraft:beef"
+    }
+  },
+  "result": {
+    "item": "ocm:hungmeat_1",
+    "count": 1
+  }
+}

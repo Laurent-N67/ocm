@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ocm:blocks/lachinetop",
+    "up": "ocm:blocks/lachinetop",
+    "north": "ocm:blocks/clockeron",
+    "east": "ocm:blocks/machineside",
+    "south": "ocm:blocks/machineside",
+    "west": "ocm:blocks/machineside",
+    "particle": "ocm:blocks/lachinetop"
+  }
+}
